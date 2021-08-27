@@ -1,0 +1,80 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cbi-sponsorships-api
+  namespace: foundation-internal-webdev-apps
+  labels:
+    app: cbi-sponsorships-api
+    environment: production
+spec:
+  selector:
+    matchLabels:
+      app: cbi-sponsorships-api
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: cbi-sponsorships-api
+        environment: production
+    spec:
+      affinity:
+        nodeAffinity:
+          preferredDuringSchedulingIgnoredDuringExecution:
+          - preference:
+              matchExpressions:
+              - key: speed
+                operator: NotIn
+                values:
+                - fast
+            weight: 1
+      containers:
+      - name: app
+        image: eclipsefdn/cbi-sponsorships-api:latest
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 8080
+        resources:
+          limits:
+            cpu: '1'
+            memory: 128Mi
+          requests:
+            cpu: 100m
+            memory: 64Mi
+---
+apiVersion: "v1"
+kind: "Service"
+metadata:
+  name: cbi-sponsorships-api
+  namespace: foundation-internal-webdev-apps
+spec:
+  ports:
+  - name: "http"
+    port: 80
+    protocol: "TCP"
+    targetPort: 8080
+  selector:
+    app: cbi-sponsorships-api
+    environment: production
+---
+apiVersion: "route.openshift.io/v1"
+kind: "Route"
+metadata:
+  name: cbi-sponsorships-api
+  namespace: foundation-internal-webdev-apps
+  annotations:
+    haproxy.router.openshift.io/timeout: 20s
+    haproxy.router.openshift.io/disable_cookies: "true"
+    haproxy.router.openshift.io/balance: roundrobin
+    haproxy.router.openshift.io/rewrite-target: /
+spec:
+  host: "api.eclipse.org"
+  path: "/cbi/sponsorships"
+  port:
+    targetPort: "http"
+  tls:
+    insecureEdgeTerminationPolicy: "Redirect"
+    termination: "edge"
+  to:
+    kind: "Service"
+    name: cbi-sponsorships-api
+    weight: 100
