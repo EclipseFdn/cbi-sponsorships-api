@@ -1,5 +1,5 @@
 FROM eclipsefdn/nginx:stable-alpine
 
-COPY cbiSponsorships.json /usr/share/nginx/html/
+COPY nginx.conf /etc/nginx/conf.d/default.conf
 
-RUN sed -i 's/index \([^;]*\);/index cbiSponsorships.json;/' /etc/nginx/conf.d/default.conf
+COPY cbiSponsorships.json /usr/share/nginx/html/
