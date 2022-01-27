@@ -158,5 +158,12 @@
 			]
 		},
 
+		{
+			project: { id: "automotive.sumo" },
+			sponsoringOrganizations: [
+				sponsoringOrg("Deutsches Zentrum fuer Luft- und Raumfahrt e.V. (DLR)", 1, tickets=["https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/813", ]),
+			]
+		},
+
 	],
 }
