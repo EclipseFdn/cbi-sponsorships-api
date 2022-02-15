@@ -165,5 +165,11 @@
 			]
 		},
 
+		{
+			project: { id: "ecd.che.che4z" },
+			sponsoringOrganizations: [
+				sponsoringOrg("CA Technologies", 1, tickets=["https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/871", ]),
+			]
+		},
 	],
 }
