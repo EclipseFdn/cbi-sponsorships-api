@@ -32,6 +32,7 @@
 			project: { id: "eclipse.jdt" },
 			sponsoringOrganizations: [
 				sponsoringOrg("IBM", 1, tickets=["https://bugs.eclipse.org/bugs/show_bug.cgi?id=559571", ]),
+				sponsoringOrg("Red Hat, Inc.", 1, tickets=["https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/976", ]),
 			]
 		},
 
@@ -39,7 +40,10 @@
 			project: { id: "eclipse.platform" },
 			sponsoringOrganizations: [
 				sponsoringOrg("IBM", 1, tickets=["https://bugs.eclipse.org/bugs/show_bug.cgi?id=550270", ]),
-				sponsoringOrg("Red Hat, Inc.", 1, tickets=["https://bugs.eclipse.org/bugs/show_bug.cgi?id=550227", ]),
+				sponsoringOrg("Red Hat, Inc.", 2, tickets=[
+					"https://bugs.eclipse.org/bugs/show_bug.cgi?id=550227",
+					"https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/976",
+				]),
 			]
 		},
 
@@ -51,9 +55,10 @@
 					"https://bugs.eclipse.org/bugs/show_bug.cgi?id=562609#c21",
 					"https://bugs.eclipse.org/bugs/show_bug.cgi?id=562759",
 				], comment="1 pack for Windows shared agent (natives build)"),
-				sponsoringOrg("Red Hat, Inc.", 2, dedicated=1, tickets=[
+				sponsoringOrg("Red Hat, Inc.", 3, dedicated=1, tickets=[
 					"https://bugs.eclipse.org/bugs/show_bug.cgi?id=552914",
 					"https://bugs.eclipse.org/bugs/show_bug.cgi?id=562609#c15",
+					"https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/976",
 				], comment="1 pack for macOS shared agent (natives build)"),
 			]
 		},
