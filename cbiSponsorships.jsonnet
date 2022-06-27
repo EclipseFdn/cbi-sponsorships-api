@@ -149,6 +149,13 @@
 		},
 
 		{
+			project: { id: "tools.oomph" },
+			sponsoringOrganizations: [
+				sponsoringOrg("Vector Informatik GmbH", 1, tickets=["https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/1434", ])
+			]
+		},
+
+		{
 			project: { id: "modeling.mdt.papyrus" },
 			sponsoringOrganizations: [
 				sponsoringOrg("CEA LIST", 2, tickets=["https://bugs.eclipse.org/bugs/show_bug.cgi?id=570916", ]),

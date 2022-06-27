@@ -35,11 +35,12 @@ SELECT	Organizations.Name1 AS Organization,
 		WHEN OrganizationMemberships.DuesTier >= 45 AND OrganizationMemberships.DuesTier < 46 THEN 5
 		# Strategic [$100k, $500k)
 		WHEN OrganizationMemberships.DuesTier >= 46 AND OrganizationMemberships.DuesTier < 50 THEN 10
-		ELSE "Unknown"
+		ELSE 0
 	END AS PacksNumbers,
 	CASE
 		WHEN OrganizationMemberships.DuesTier < 46 THEN 0
 		WHEN OrganizationMemberships.DuesTier >= 46 AND OrganizationMemberships.DuesTier < 50 THEN 2
+		ELSE 0
 	END as StaticAgentNumbers
 
 
