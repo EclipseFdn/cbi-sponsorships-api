@@ -177,5 +177,12 @@
 			]
 		},
 
+        {
+            project: { id: "iot.amlen" },
+            sponsoringOrganizations: [
+                sponsoringOrg("IBM", 1, tickets=["https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/1523", ]),
+            ]
+        },
+
 	],
 }
