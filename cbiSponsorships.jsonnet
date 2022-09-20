@@ -184,5 +184,13 @@
             ]
         },
 
+        {
+            project: { id: "technology.tycho" },
+            sponsoringOrganizations: [
+                sponsoringOrg("Renesas Electronics Corporation", 1, tickets=["https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/1958", ]),
+            ]
+        },
+
+
 	],
 }
