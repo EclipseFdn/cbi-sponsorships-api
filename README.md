@@ -13,6 +13,12 @@ The API provides 2 root objects:
 ./build.sh
 ```
 
+## Show stats
+
+```bash
+./showStats.sh
+```
+
 ## Requirements
 * jq
 * jsonnet
