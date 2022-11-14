@@ -189,6 +189,7 @@
             sponsoringOrganizations: [
                 sponsoringOrg("Renesas Electronics Corporation", 1, tickets=["https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/1958", ]),
                 sponsoringOrg("Red Hat, Inc.", 1, tickets=["https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/1962", ]),
+                sponsoringOrg("SAP SE", 2, tickets=["https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/2197", ]),
             ]
         },
 
