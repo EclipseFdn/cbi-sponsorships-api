@@ -76,6 +76,7 @@
 				sponsoringOrg("Fujitsu Limited", 5, tickets=["https://bugs.eclipse.org/bugs/show_bug.cgi?id=564312", ]),
 				sponsoringOrg("Oracle", 6, tickets=["https://bugs.eclipse.org/bugs/show_bug.cgi?id=564744", ]),
 				sponsoringOrg("Payara Services Limited", 1, tickets=["https://bugs.eclipse.org/bugs/show_bug.cgi?id=564136", ]),
+				sponsoringOrg("Omnifish OU", 1, tickets=["https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/2102", ]),
 			]
 		},
 
