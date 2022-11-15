@@ -193,6 +193,13 @@
             ]
         },
 
+        {
+            project: { id: "technology.set" },
+            sponsoringOrganizations: [
+                sponsoringOrg("Scheidt & Bachmann System Technik GmbH", 1, tickets=["https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/2235", ]),
+            ]
+        },
+
 
 	],
 }
