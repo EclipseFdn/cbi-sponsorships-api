@@ -164,7 +164,7 @@
 		},
 
 		{
-			project: { id: "automotive.simopenpass" },
+			project: { id: "automotive.openpass" },
 			sponsoringOrganizations: [
 				sponsoringOrg("BMW Group", 1, tickets=["https://bugs.eclipse.org/bugs/show_bug.cgi?id=571945", ]),
 				sponsoringOrg("Robert Bosch GmbH", dedicated=1, tickets=["https://bugs.eclipse.org/bugs/show_bug.cgi?id=571989", ]),
