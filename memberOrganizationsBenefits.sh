@@ -41,7 +41,7 @@ SELECT	Organizations.Name1 AS Organization,
 		WHEN OrganizationMemberships.DuesTier < 46 THEN 0
 		WHEN OrganizationMemberships.DuesTier >= 46 AND OrganizationMemberships.DuesTier < 50 THEN 2
 		ELSE 0
-	END as StaticAgentNumbers
+	END as StaticAgentNumbers, OrganizationMemberships.Relation
 
 
 FROM Organizations	JOIN OrganizationMemberships
@@ -49,8 +49,7 @@ FROM Organizations	JOIN OrganizationMemberships
 
 WHERE	(OrganizationMemberships.ExpiryDate = "0000-00-00 00:00:00" OR OrganizationMemberships.ExpiryDate IS NULL)
 
-
-GROUP BY Organizations.Name1
+GROUP BY Organizations.Name1, OrganizationMemberships.Relation
 ORDER BY Organizations.Name1
 ;
 EOF
@@ -64,11 +63,12 @@ printf '[\n' > "${OUTPUT_JSONNET}"
 
 # shellcheck disable=SC2029
 for orgbenefits in $(ssh foundation "mysql --defaults-extra-file='${REMOTE_MYSQL_CONFIG_FILE}' --default-character-set=utf8mb4 --batch --skip-column-names --execute '${QUERY}'" | tr '\t' '|' ); do
-  printf $'\t{id: %d, displayName: "%s", resourcePacks: %d, dedicatedAgents: %d},\n' \
+  printf $'\t{id: %d, displayName: "%s", resourcePacks: %d, dedicatedAgents: %d, membership: "%s"},\n' \
     "$(cut -d'|' -f2 <<<"${orgbenefits}")" \
     "$( (cut -d'|' -f1 | perl -CS -MHTML::Entities -ne 'print decode_entities($_)' ) <<<"${orgbenefits}")" \
     "$(cut -d'|' -f3 <<<"${orgbenefits}")" \
     "$(cut -d'|' -f4 <<<"${orgbenefits}")" \
+    "$(ms=$(cut -d'|' -f5 <<<"${orgbenefits}"); [[ "${ms}" == "OH"* ]] && echo "OpenHardware" || echo "Eclipse" )" \
      >> "${OUTPUT_JSONNET}"
 done
 printf ']\n' >> "${OUTPUT_JSONNET}"

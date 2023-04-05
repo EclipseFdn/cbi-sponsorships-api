@@ -24,7 +24,7 @@ get_total() {
   # get total number of resource packs or dedicated agents
   local name="${1:-}"
   local res="${2:-}"
-  jq -r ".memberOrganizationsBenefits[] | select(.displayName==\"${name}\") | .${res}" < "${JSON_FILE}"
+  jq -r "[.memberOrganizationsBenefits[] | select(.displayName==\"${name}\") | .${res}] | add" < "${JSON_FILE}"
 }
 
 get_used() {
@@ -53,7 +53,7 @@ show_usage_stats() {
     local total
     total="$(get_total "${name}" "${res}")"
     local used
-    used="$(get_used "${sponsorList}" "${name}" "${res}")" 
+    used="$(get_used "${sponsorList}" "${name}" "${res}")"
     # skip if nothing is used
     if [[ "${used}" -eq 0 ]]; then
       continue
