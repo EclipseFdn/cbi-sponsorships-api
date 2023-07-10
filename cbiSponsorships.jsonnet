@@ -1,5 +1,5 @@
 {
-	memberOrganizationsBenefits: import 'memberOrganizationsBenefits.jsonnet',
+	memberOrganizationsBenefits: import './memberOrganizationsBenefits.jsonnet',
 	local sponsoringOrg(name, packs=0, dedicated=0, tickets=[], comment="") = {
 		id: std.filter(function(it) it.displayName == name, $.memberOrganizationsBenefits)[0].id,
 		displayName: name,
@@ -95,13 +95,6 @@
 			project: { id: "modeling.sirius" },
 			sponsoringOrganizations: [
 				sponsoringOrg("OBEO", 1, tickets=["https://bugs.eclipse.org/bugs/show_bug.cgi?id=548499", ]),
-			]
-		},
-
-		{
-			project: { id: "modeling.tmf.xtext" },
-			sponsoringOrganizations: [
-				sponsoringOrg("itemis AG", 1, tickets=["https://bugs.eclipse.org/bugs/show_bug.cgi?id=549182", ]),
 			]
 		},
 
