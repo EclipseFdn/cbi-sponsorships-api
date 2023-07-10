@@ -4,7 +4,7 @@
 set -o errexit
 set -o nounset
 set -o pipefail
-
+set -x
 IFS=$'\n\t'
 SCRIPT_FOLDER="$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")"
 
@@ -18,34 +18,34 @@ host=foundation
 EOF
 
 read -r -d '' QUERY <<'EOF' || :
-SELECT	Organizations.Name1 AS Organization,
-	Organizations.OrganizationID,
-	CASE
-		# Associate [$0, $5k]
-		WHEN OrganizationMemberships.DuesTier < 18 THEN 0
-		# Solution [$0, $15k)
-		WHEN OrganizationMemberships.DuesTier >= 18 AND OrganizationMemberships.DuesTier < 23 THEN 1
-		# Solution [$15k, $20k)
-		WHEN OrganizationMemberships.DuesTier >= 23 AND OrganizationMemberships.DuesTier < 30 THEN 2
-		# Enterprise [$50k, $100k)
-		WHEN OrganizationMemberships.DuesTier >= 30 AND OrganizationMemberships.DuesTier < 40 THEN 3
-		# Strategic [$25k, $50k)
-		WHEN OrganizationMemberships.DuesTier >= 40 AND OrganizationMemberships.DuesTier < 45 THEN 3
-		# Strategic [$50k, $100k)
-		WHEN OrganizationMemberships.DuesTier >= 45 AND OrganizationMemberships.DuesTier < 46 THEN 5
-		# Strategic [$100k, $500k)
-		WHEN OrganizationMemberships.DuesTier >= 46 AND OrganizationMemberships.DuesTier < 50 THEN 10
-		ELSE 0
-	END AS PacksNumbers,
-	CASE
-		WHEN OrganizationMemberships.DuesTier < 46 THEN 0
-		WHEN OrganizationMemberships.DuesTier >= 46 AND OrganizationMemberships.DuesTier < 50 THEN 2
-		ELSE 0
-	END as StaticAgentNumbers, OrganizationMemberships.Relation
+	SELECT	Organizations.Name1 AS Organization,
+		Organizations.OrganizationID,
+		CASE
+			# Associate [$0, $5k]
+			WHEN OrganizationMemberships.DuesTier < 18 THEN 0
+			# Solution [$0, $15k)
+			WHEN OrganizationMemberships.DuesTier >= 18 AND OrganizationMemberships.DuesTier < 23 THEN 1
+			# Solution [$15k, $20k)
+			WHEN OrganizationMemberships.DuesTier >= 23 AND OrganizationMemberships.DuesTier < 30 THEN 2
+			# Enterprise [$50k, $100k)
+			WHEN OrganizationMemberships.DuesTier >= 30 AND OrganizationMemberships.DuesTier < 40 THEN 3
+			# Strategic [$25k, $50k)
+			WHEN OrganizationMemberships.DuesTier >= 40 AND OrganizationMemberships.DuesTier < 45 THEN 3
+			# Strategic [$50k, $100k)
+			WHEN OrganizationMemberships.DuesTier >= 45 AND OrganizationMemberships.DuesTier < 46 THEN 5
+			# Strategic [$100k, $500k)
+			WHEN OrganizationMemberships.DuesTier >= 46 AND OrganizationMemberships.DuesTier < 50 THEN 10
+			ELSE 0
+		END AS PacksNumbers,
+		CASE
+			WHEN OrganizationMemberships.DuesTier < 46 THEN 0
+			WHEN OrganizationMemberships.DuesTier >= 46 AND OrganizationMemberships.DuesTier < 50 THEN 2
+			ELSE 0
+		END as StaticAgentNumbers, OrganizationMemberships.Relation
 
 
-FROM Organizations	JOIN OrganizationMemberships
-		ON OrganizationMemberships.OrganizationID = Organizations.OrganizationID
+	FROM Organizations	JOIN OrganizationMemberships
+			ON OrganizationMemberships.OrganizationID = Organizations.OrganizationID
 
 WHERE	(OrganizationMemberships.ExpiryDate = "0000-00-00 00:00:00" OR OrganizationMemberships.ExpiryDate IS NULL OR OrganizationMemberships.ExpiryDate >= CURDATE() )
 
@@ -55,7 +55,7 @@ ORDER BY Organizations.Name1
 EOF
 
 # shellcheck disable=SC2088
-REMOTE_MYSQL_CONFIG_FILE="~/mysql.foundation.config"
+REMOTE_MYSQL_CONFIG_FILE="/tmp/mysql.foundation.config"
 OUTPUT_JSONNET="${SCRIPT_FOLDER}/memberOrganizationsBenefits.jsonnet"
 
 ssh foundation /bin/bash -c "cat > ${REMOTE_MYSQL_CONFIG_FILE}" <<<"${MYSQL_CONFIG}"
