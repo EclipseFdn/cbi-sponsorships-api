@@ -1,0 +1,3215 @@
+{
+   "memberOrganizationsBenefits": [
+      {
+         "dedicatedAgents": 0,
+         "displayName": "10xEngineers",
+         "id": 1613,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "1105 Media Redmond Media Group",
+         "id": 757,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "23 Technologies GmbH",
+         "id": 1598,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Accenture GmbH",
+         "id": 1550,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "ACM Queue",
+         "id": 751,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Addison Wesley",
+         "id": 752,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Adobe",
+         "id": 1494,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Advanced Micro Devices (AMD)",
+         "id": 848,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Advantest Europe GmbH",
+         "id": 1329,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "AICAS GmbH",
+         "id": 1480,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "AIRBUS",
+         "id": 1032,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Alean-Tec",
+         "id": 1471,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Alibaba Cloud",
+         "id": 1428,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Aloxy",
+         "id": 1371,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Amadeus S.A.S.",
+         "id": 1540,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Amazon Web Services, Inc.",
+         "id": 1531,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "AMIQ EDA",
+         "id": 1106,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "AMIQ EDA",
+         "id": 1106,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Apex.AI, Inc",
+         "id": 1474,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Applied Artificial Intelligence Group, TU Graz, Software Technology Institute",
+         "id": 1343,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "ARCAD Software",
+         "id": 1500,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "ARM Limited",
+         "id": 823,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Array",
+         "id": 1547,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "ARRK Engineering GmbH",
+         "id": 1564,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "ArSysOp",
+         "id": 1467,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "ASAM e.V.",
+         "id": 1174,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Ashling Microsystems Limited",
+         "id": 1403,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Associacao de Usuarios da Tecnologia Java, SouJava",
+         "id": 1244,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Atlanta Java Users Group, Inc",
+         "id": 1469,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "AURA",
+         "id": 1543,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "AVL List GmbH",
+         "id": 1352,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Azul Systems, Inc",
+         "id": 1166,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Bachmann Electronic GmbH",
+         "id": 1172,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Barcelona Supercomputing Center (BSC)",
+         "id": 1405,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "BeagleBoard.org Foundation",
+         "id": 1461,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Beijing Baolande Software Corporation",
+         "id": 1506,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Beijing Institute of Open Source Chip",
+         "id": 1620,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Beijing Thunisoft Information Technology Co., Ltd",
+         "id": 1481,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Beijing Tongtech Co., Ltd",
+         "id": 1458,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Beijing Vsettan Data Technology Co. Ltd.",
+         "id": 1557,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Berylls Group GmbH & subsidiaries",
+         "id": 1623,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Bird Software Solutions Ltd",
+         "id": 1383,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "BIS Guard Association (R.A.)",
+         "id": 999,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "BlackBerry Limited ",
+         "id": 890,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Bloomberg L.P.",
+         "id": 1580,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Bluespec, Inc",
+         "id": 1438,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "BMW Group",
+         "id": 1009,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "BNY Mellon",
+         "id": 1479,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Business Systems Integration AG",
+         "id": 954,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "BZ Media",
+         "id": 754,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Caltech/Jet Propulsion Laboratory",
+         "id": 1064,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Calypso Networks Association",
+         "id": 1269,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "CANARY LABS INC.",
+         "id": 1384,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Canonical Group Limited",
+         "id": 1135,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Capgemini ",
+         "id": 1551,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "CARIAD SE",
+         "id": 1570,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Caribbean Organization For Development of Enterprise",
+         "id": 1464,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Carleton University",
+         "id": 834,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Carnegie Mellon University, Software Industry Center",
+         "id": 917,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "CEA LIST",
+         "id": 937,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "CEA LIST",
+         "id": 937,
+         "membership": "Eclipse",
+         "resourcePacks": 3
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Cedalo GmbH",
+         "id": 1376,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Centre National de la Recherche Scientifique (CNRS-LAAS)",
+         "id": 1108,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Centrum voor Wiskunde en Informatica",
+         "id": 885,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Chair for Applied Software Engineering, TUM",
+         "id": 1068,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Chevron Technical Center",
+         "id": 1442,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Circuitsutra Technologies Pvt Ltd",
+         "id": 1473,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Cirrus Link Solutions , LLC",
+         "id": 1310,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Clemson University",
+         "id": 883,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "CloudBees Inc.",
+         "id": 1028,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Cluster Edit",
+         "id": 1115,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "CMC Microsystems",
+         "id": 1407,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Codasip s.r.o",
+         "id": 1573,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Communications and Media Arts (CMA)",
+         "id": 755,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Compex Systemhaus GmbH",
+         "id": 1195,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Concordia University Ptidej Team CSSE",
+         "id": 1361,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Conselleria de Infraestructuras y Transporte",
+         "id": 893,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Contact Software GmbH",
+         "id": 1252,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Continental Automotive Technologies GmbH",
+         "id": 1554,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Crypto Quantique Limited",
+         "id": 1590,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "CSEM SA",
+         "id": 1491,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Cubit Innovation Labs",
+         "id": 1569,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Cummins Inc",
+         "id": 1608,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "DASH7 Alliance ",
+         "id": 1406,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Data In Motion Consulting GmbH",
+         "id": 1476,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Data Intelligence Offensive (DIO)",
+         "id": 1544,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Datum TC",
+         "id": 1408,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "DB Systel GmbH",
+         "id": 1144,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "DENSO AUTOMOTIVE Deutschland GmbH",
+         "id": 1387,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "DePaul University",
+         "id": 1226,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Deutsches Zentrum fuer Luft- und Raumfahrt e.V. (DLR)",
+         "id": 1235,
+         "membership": "Eclipse",
+         "resourcePacks": 3
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "develop  group Basys GmbH",
+         "id": 1169,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Dipartimento di Elettronica, Informazione e Bioingegneria - Politecnico di Milano",
+         "id": 1575,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Dipartimento di Infomatica Sistemistica e Communicazione Universita di Milano Italy",
+         "id": 1030,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "DIST - University of Genova",
+         "id": 981,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Dolphin Design ",
+         "id": 1509,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "DZone, Inc.",
+         "id": 921,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "eccenca GmbH",
+         "id": 892,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "EclipseSource",
+         "id": 690,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Ecole de technologie superieure",
+         "id": 1182,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "ECSPEC",
+         "id": 1432,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "EGX Acquisition Corp.",
+         "id": 1586,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Elektrobit Automotive GmbH",
+         "id": 1572,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "EM Microelectronic- US Inc",
+         "id": 1448,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Embecosm",
+         "id": 1439,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Empaiot Pte. Ltd",
+         "id": 1610,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "EMQ Technologies Inc",
+         "id": 1577,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Energy Telecommunications & Electrical Association",
+         "id": 1635,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Ericsson AB",
+         "id": 682,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "ESOP- Empresas SW OS Portuguesas",
+         "id": 1561,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Espressif Systems (Shanghai) Co. Ltd",
+         "id": 1556,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "ETAS GmbH",
+         "id": 1568,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Eteration A.S",
+         "id": 1349,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "ETH Zurich",
+         "id": 1436,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "ETRI (Electronics & Telecommunications Research Institute)",
+         "id": 683,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "EUROFORUM Deutschland SE",
+         "id": 1110,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "European Space Agency",
+         "id": 1519,
+         "membership": "Eclipse",
+         "resourcePacks": 3
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Eurotech",
+         "id": 968,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Faculty of Mathematics and Information Science, Warsaw University of Technology",
+         "id": 1214,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Ferdinand-Steinbeis-Institut",
+         "id": 1634,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Flow Software, Inc.",
+         "id": 1503,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Fondazione Bruno Kessler",
+         "id": 1219,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Fondazione LINKS",
+         "id": 1512,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Foundation Development Schluss",
+         "id": 1454,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Fraunhofer-Gesellschaft",
+         "id": 758,
+         "membership": "Eclipse",
+         "resourcePacks": 3
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Free and Open Source Software Learning Centre e.V.",
+         "id": 1034,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Frontrgrade Gaisler",
+         "id": 1545,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "FUJIFILM Italia S.p.A",
+         "id": 1582,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 2,
+         "displayName": "Fujitsu Limited",
+         "id": 685,
+         "membership": "Eclipse",
+         "resourcePacks": 10
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "FUNDACIÓN TECNALIA RESEARCH & INNOVATION",
+         "id": 998,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Futurewei Technologies, Inc.",
+         "id": 1409,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "FZI Forschungszentrum Informatik",
+         "id": 977,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Gaia-x European Association for Data and Cloud.",
+         "id": 1619,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Garden State Java User Group (GSJUG)",
+         "id": 1485,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "General Motors GTO LLC",
+         "id": 1622,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Generative Software GmbH",
+         "id": 1008,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Genuitec, LLC",
+         "id": 687,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "GFOSS - Open Technologies  Alliance",
+         "id": 1255,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Global Foundries U.S. Inc.",
+         "id": 1526,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Goldman Sachs Group, Inc.",
+         "id": 1183,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Google LLC",
+         "id": 1592,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Gradle Inc",
+         "id": 1164,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "GreenWaves Technologies",
+         "id": 1410,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "GroupGets LLC",
+         "id": 1563,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Hangzhou Yungu IoT Standard Development Center",
+         "id": 1359,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Harvey Mudd College",
+         "id": 1584,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Hazelcast Inc",
+         "id": 1262,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "hbz",
+         "id": 1072,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Hefei Whale Microelectronics Co. Ltd",
+         "id": 1516,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Heinrich-Heine-Universitat Dusseldorf",
+         "id": 1039,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Heinz Nixdorf Institute",
+         "id": 1082,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "HiveMQ GmbH",
+         "id": 1122,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Huawei Technologies Co., LTD.",
+         "id": 1380,
+         "membership": "OpenHardware",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 2,
+         "displayName": "Huawei Technologies Co., LTD.",
+         "id": 1380,
+         "membership": "Eclipse",
+         "resourcePacks": 10
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Hunan AsiaInfo Anhui Technology Limited",
+         "id": 1532,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "IAV ",
+         "id": 1612,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 2,
+         "displayName": "IBM",
+         "id": 656,
+         "membership": "Eclipse",
+         "resourcePacks": 10
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "ICT CAS",
+         "id": 1549,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "IDG Japan",
+         "id": 759,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "IFS Institut fur Software",
+         "id": 841,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "iJUG Interessenverbund der Java-User Groups e V",
+         "id": 1321,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Imperas Software Ltd",
+         "id": 1431,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "IncQuery Labs Zrt",
+         "id": 1179,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Inductive Automation",
+         "id": 1317,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Industrial Digital Twin Association",
+         "id": 1521,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Industrial Internet Consortium",
+         "id": 1128,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "INRIA",
+         "id": 959,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Institut für angewandte Systemtechnik Bremen Gmbh",
+         "id": 1451,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Institute of Software Chinese Academy of Sciences",
+         "id": 1530,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Instituto de Pesquisas Eldorado",
+         "id": 941,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Intel Corporation",
+         "id": 657,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Intel Corporation",
+         "id": 657,
+         "membership": "OpenHardware",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Interuniversitair Micro-Electronica Centrum vzm (IMEC)",
+         "id": 1504,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Intrinsix Corp.",
+         "id": 1490,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "IoTex Foundation",
+         "id": 1593,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "IRISA",
+         "id": 1222,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Istanbul JUG",
+         "id": 1312,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "itemis AG",
+         "id": 817,
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Izmir JUG",
+         "id": 1331,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Jade Design Automation",
+         "id": 1538,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "jadeva GmbH",
+         "id": 1496,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "JASMINE CONSEIL SARL",
+         "id": 1626,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "JavaPro",
+         "id": 1258,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "KALRAY SA",
+         "id": 1565,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Karakun AG",
+         "id": 1319,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Kentyou",
+         "id": 1597,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Kichwa Coders Canada Inc.",
+         "id": 1125,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Kingdee Apusic Cloud Computing Co.,Ltd",
+         "id": 1397,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "KTH (Kungliga Tekniska hogskolan)",
+         "id": 1470,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "KU Leuven",
+         "id": 1633,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "kuehn & weyh Software GmbH",
+         "id": 1330,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Kybele Research Group",
+         "id": 964,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Kynetics",
+         "id": 1286,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "L'Embarque",
+         "id": 1233,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Lablicate GmbH",
+         "id": 1105,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Laboratory for Safe and Secure Systems (LaS3)",
+         "id": 958,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "LG Electronics, Inc",
+         "id": 1621,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Linaro Limited",
+         "id": 1533,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Linux Foundation",
+         "id": 1345,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Litmus Automation Inc.",
+         "id": 1631,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "logi.cals GmbH",
+         "id": 1156,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "London Jamocha Community",
+         "id": 1309,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Low Power Futures, Inc",
+         "id": 1567,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Lulea University of Technology",
+         "id": 1374,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Luxoft GmbH",
+         "id": 1602,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "M2M Alliance E.V.",
+         "id": 1101,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "M3S Research Unit at the University of Oulu",
+         "id": 1251,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Makewave AB",
+         "id": 1482,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Malardalen University",
+         "id": 1232,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Mango Software Labs",
+         "id": 862,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "McMaster University",
+         "id": 1527,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Medical Banking Project",
+         "id": 803,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 2,
+         "displayName": "Mercedes-Benz Tech Innovation GmbH",
+         "id": 1134,
+         "membership": "Eclipse",
+         "resourcePacks": 10
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Mercer County Community College",
+         "id": 955,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Meruvian Foundation",
+         "id": 956,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Michigan State University Facility for Rare Isotope Beams",
+         "id": 1119,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Micro Stream Software GmbH",
+         "id": 1605,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "MicroEJ",
+         "id": 1140,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 2,
+         "displayName": "Microsoft Corp.",
+         "id": 1196,
+         "membership": "Eclipse",
+         "resourcePacks": 10
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Mitacs",
+         "id": 1414,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "MU Electronics ",
+         "id": 1583,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Mueller-BBM VibroAkustik Systeme GmbH",
+         "id": 1147,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "N3uron Connectivity Systems",
+         "id": 1609,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "NEC Corporation",
+         "id": 1399,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Netherlands Organisation for applied scientific research TNO",
+         "id": 1489,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "NOI Techpark",
+         "id": 1515,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Nokia Solutions and Networks Oy",
+         "id": 1542,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Northern Alberta Institute of Technology (NAIT)",
+         "id": 1242,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "NOUVELLE-AQUITAINE OPEN SOURCE",
+         "id": 1611,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "NXP USA, Inc.",
+         "id": 1415,
+         "membership": "OpenHardware",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "O'Reilly Media",
+         "id": 1178,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Oak Ridge National Laboratory",
+         "id": 1111,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "OBEO",
+         "id": 863,
+         "membership": "Eclipse",
+         "resourcePacks": 3
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Object Management Group, Inc.",
+         "id": 760,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "OFFIS e.V",
+         "id": 1228,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Oklahoma State University",
+         "id": 1587,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Omnifish OU",
+         "id": 1571,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "OPCoach",
+         "id": 987,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Open Elements GmbH",
+         "id": 1600,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Open Forum Europe AISBL",
+         "id": 1625,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Open Robotics",
+         "id": 1443,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Open Source Automation Development Lab (OSADL)",
+         "id": 1090,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Open Source Business Foundation",
+         "id": 905,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Open Source Geospatial Foundation (OSGeo)",
+         "id": 1071,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Open Source Press GmbH",
+         "id": 1001,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Open Systems Publishing",
+         "id": 762,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "openAPC e.V.",
+         "id": 1015,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "OpenDevise Inc",
+         "id": 1339,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "openHAB Foundation",
+         "id": 1209,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "OpenHW Group",
+         "id": 1499,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "openKONSEQUENZ eG",
+         "id": 1427,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "OpenUK",
+         "id": 1450,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Opto 22",
+         "id": 1501,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 2,
+         "displayName": "Oracle",
+         "id": 721,
+         "membership": "Eclipse",
+         "resourcePacks": 10
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "OSB Alliance- Bundesverband für digitale Souveränität e.V.",
+         "id": 1390,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "OSU Open Source Lab",
+         "id": 842,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Otto von Guericke University Magdeburg",
+         "id": 1392,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "OW2",
+         "id": 894,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "PATEO CONNECT+ Technology (Shanghai) Corporation",
+         "id": 1576,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Payara Services Limited",
+         "id": 1238,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Peak Solution GmbH",
+         "id": 1123,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Pingtouge Semiconductors Co. Ltd (C-Sky)",
+         "id": 1429,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "PlanV GmbH",
+         "id": 1588,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Politecnico di Torino",
+         "id": 1636,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Polytechnique Montreal",
+         "id": 1434,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Posit Software, PBC",
+         "id": 1629,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "pragmatic industries GmbH",
+         "id": 1440,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Primeton Information Technologies, Inc",
+         "id": 1401,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Professional Science Master's in GIS, Temple University",
+         "id": 1215,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Protos Software GmbH",
+         "id": 989,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "PTA GmbH",
+         "id": 1246,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Qualcomm Innovation Center",
+         "id": 1632,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Quantyss",
+         "id": 1594,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Queen's University at Kingston",
+         "id": 1170,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "QuickLogic Foundation",
+         "id": 1463,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Rapid Space International SAS",
+         "id": 1617,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 2,
+         "displayName": "Red Hat, Inc.",
+         "id": 731,
+         "membership": "Eclipse",
+         "resourcePacks": 10
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Renesas Electronics Corporation",
+         "id": 1069,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Reutlingen University",
+         "id": 1630,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Reycom AG, a Swiss corporation",
+         "id": 1555,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "RIOS Lab",
+         "id": 1465,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Rivos Inc",
+         "id": 1595,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 2,
+         "displayName": "Robert Bosch GmbH",
+         "id": 979,
+         "membership": "Eclipse",
+         "resourcePacks": 10
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Robotron Datenbank-Software GmbH",
+         "id": 1083,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "RTC Group Inc.",
+         "id": 765,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Rumble Development Corp.",
+         "id": 1560,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Salesforce.com, Inc.",
+         "id": 1220,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 2,
+         "displayName": "SAP SE",
+         "id": 665,
+         "membership": "Eclipse",
+         "resourcePacks": 10
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "SCANOSS",
+         "id": 1614,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Scheidt & Bachmann System Technik GmbH",
+         "id": 1541,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Shandong Cvicse Middleware Co.,Ltd",
+         "id": 1487,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Shenzhen Ping An Communication Technology Co.,Ltd",
+         "id": 1579,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Siemens AG",
+         "id": 895,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Siemens AG",
+         "id": 895,
+         "membership": "OpenHardware",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Sigasi",
+         "id": 990,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "SignalFire Telemetry ",
+         "id": 1488,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "SIGS-DATACOM GmbH",
+         "id": 867,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Silicon Assurance",
+         "id": 1578,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Silicon Laboratories Inc.",
+         "id": 1419,
+         "membership": "OpenHardware",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Simon Fraser University",
+         "id": 1528,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "SMT. Kumudben Darbar College of Commerce, Science and Management Studies, Vijayapura (Karnataka State) INDIA",
+         "id": 1217,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Social Physics",
+         "id": 763,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Software AG",
+         "id": 804,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Software and Support Media GmbH",
+         "id": 802,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Software Institute, Università della Svizzera italiana",
+         "id": 1382,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Software Mansion SA",
+         "id": 1628,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Software Quality Systems, S.A.",
+         "id": 1118,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Sorbonne Universite",
+         "id": 1618,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "SOTEC GmbH+Co KG",
+         "id": 1599,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Splendit IT-Consulting GmbH",
+         "id": 1230,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "SSI Schaefer IT Solutions GmbH",
+         "id": 1239,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Star Organization",
+         "id": 879,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Start North ry",
+         "id": 1616,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Stellenbosch University",
+         "id": 1604,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "STMicroelectronics International N.V.",
+         "id": 800,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "SUSE LLC",
+         "id": 1539,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Sustainable Digital Infrastructure Alliance",
+         "id": 1566,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Swarm Development Group",
+         "id": 961,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Synchrotron SOLEIL",
+         "id": 1212,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Synthara AG",
+         "id": 1624,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "T-Systems International GmbH",
+         "id": 1589,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Talend SAS",
+         "id": 857,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Tasktop",
+         "id": 870,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Technion",
+         "id": 1493,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Technische Universitaet Darmstadt",
+         "id": 1026,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Technische Universitaet Dresden",
+         "id": 1337,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Technische Universiteit Eindhoven",
+         "id": 1466,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Technological Education Institute of West Macedonia, Dept. of Geotechnology and Environment",
+         "id": 815,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Telecom Saint-Etienne",
+         "id": 1231,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Thales",
+         "id": 742,
+         "membership": "OpenHardware",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "The Apache Software Foundation",
+         "id": 1505,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "The Autoware Foundation",
+         "id": 1462,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "The Cloud Native Computing Foundation",
+         "id": 1308,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "The Johns Hopkins University",
+         "id": 1486,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "The University of Sheffield",
+         "id": 1492,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "The University of York",
+         "id": 1253,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Third Millennium Society",
+         "id": 904,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "TM Forum",
+         "id": 1206,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "TmaxSoft Co., Ltd",
+         "id": 1391,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Tomitribe Corporation",
+         "id": 1248,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Topio Networks",
+         "id": 1441,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Trialog ",
+         "id": 1513,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Tsinghua University",
+         "id": 764,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "TUEV SUED Auto Service GmbH",
+         "id": 1273,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "TypeFox GmbH",
+         "id": 1194,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "UCSB",
+         "id": 1525,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "UKRI Science and Technology Facilities Council",
+         "id": 1615,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Universidad Autonoma de Occidente",
+         "id": 967,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Universidad de Cantabria",
+         "id": 1591,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Universidade do Minho",
+         "id": 1603,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Universitat Oberta De Catalunya",
+         "id": 1208,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Universitat Politecnica de Valencia",
+         "id": 1084,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Universite de Montreal",
+         "id": 1347,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Universite Grenoble Alpes (UGA)",
+         "id": 1138,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "University of Agder",
+         "id": 957,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "University of Applied Science and Arts Dortmund",
+         "id": 1065,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "University of Augsburg, Institute of Computer Science, Programming Distributed Systems Lab",
+         "id": 966,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "University of Bologna",
+         "id": 1423,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "University of Calgary",
+         "id": 1142,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "University of Gothenburg",
+         "id": 1211,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "University of L' Aquila",
+         "id": 1249,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "University of Leipzig",
+         "id": 1066,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "University of Luxembourg",
+         "id": 1353,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "University of Manchester",
+         "id": 880,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "University of Oslo, Dept of Informatics",
+         "id": 1453,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "University of Reading",
+         "id": 1601,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "University of Saskatchewan",
+         "id": 1524,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "University of Skovde",
+         "id": 1077,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "University of Southampton",
+         "id": 1529,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "University of Zagreb, Faculty of Electrical Engineering and Computing (FER)",
+         "id": 1270,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Uppsala University",
+         "id": 1127,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Valeo",
+         "id": 1607,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Vector Informatik GmbH",
+         "id": 816,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Virtual Vehicle Research GmbH",
+         "id": 1042,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Vitesco Technologies",
+         "id": 1606,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "VMware, Inc.",
+         "id": 1437,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Vogel Industrie Medien",
+         "id": 918,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Volkswagen Aktiengesellschaft",
+         "id": 1520,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "VTT Technical Research Centre of Finland",
+         "id": 831,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Webtide LLC",
+         "id": 1221,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "XMOS Ltd",
+         "id": 1537,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Yatta Solutions GmbH",
+         "id": 1006,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Zero-Day Labs, LDA",
+         "id": 1596,
+         "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "ZettaScale Technology SARL",
+         "id": 1559,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "ZF Friedrichshafen AG",
+         "id": 1553,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      }
+   ],
+   "sponsoredProjects": [
+      {
+         "project": {
+            "id": "ecd.codewind"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "IBM",
+               "id": 656,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=548054#c18",
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=549494"
+               ],
+               "resourcePacks": 2
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "ecd.theia"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "Windows + macOS shared agents",
+               "dedicatedAgents": 0,
+               "displayName": "ARM Limited",
+               "id": 823,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=564771"
+               ],
+               "resourcePacks": 2
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "eclipse.jdt"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "IBM",
+               "id": 656,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=559571"
+               ],
+               "resourcePacks": 1
+            },
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Red Hat, Inc.",
+               "id": 731,
+               "requestTickets": [
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/976"
+               ],
+               "resourcePacks": 1
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "eclipse.platform"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "IBM",
+               "id": 656,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=550270"
+               ],
+               "resourcePacks": 1
+            },
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Red Hat, Inc.",
+               "id": 731,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=550227",
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/976"
+               ],
+               "resourcePacks": 2
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "eclipse.platform.releng"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "1 pack for Windows shared agent (natives build)",
+               "dedicatedAgents": 2,
+               "displayName": "IBM",
+               "id": 656,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=553027",
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=562609#c21",
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=562759"
+               ],
+               "resourcePacks": 3
+            },
+            {
+               "comment": "1 pack for macOS shared agent (natives build)",
+               "dedicatedAgents": 1,
+               "displayName": "Red Hat, Inc.",
+               "id": 731,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=552914",
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=562609#c15",
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/976"
+               ],
+               "resourcePacks": 3
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "ee4j.eclipselink"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Oracle",
+               "id": 721,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=564240"
+               ],
+               "resourcePacks": 4
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "ee4j.glassfish"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Fujitsu Limited",
+               "id": 685,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=564312"
+               ],
+               "resourcePacks": 5
+            },
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Oracle",
+               "id": 721,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=564744"
+               ],
+               "resourcePacks": 6
+            },
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Payara Services Limited",
+               "id": 1238,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=564136"
+               ],
+               "resourcePacks": 1
+            },
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Omnifish OU",
+               "id": 1571,
+               "requestTickets": [
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/2102"
+               ],
+               "resourcePacks": 1
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "ee4j.jakartaee-tck"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Fujitsu Limited",
+               "id": 685,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=564312"
+               ],
+               "resourcePacks": 5
+            },
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Tomitribe Corporation",
+               "id": 1248,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=564137"
+               ],
+               "resourcePacks": 1
+            },
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Webtide LLC",
+               "id": 1221,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=564697"
+               ],
+               "resourcePacks": 1
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "modeling.sirius"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "OBEO",
+               "id": 863,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=548499"
+               ],
+               "resourcePacks": 1
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "polarsys.capella"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Thales",
+               "id": 742,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=558264"
+               ],
+               "resourcePacks": 1
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "technology.egit"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "SAP SE",
+               "id": 665,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=548126"
+               ],
+               "resourcePacks": 1
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "technology.jgit"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "SAP SE",
+               "id": 665,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=548126"
+               ],
+               "resourcePacks": 1
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "technology.justj"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "2 packs for macOS and Windows shared agents (natives build)",
+               "dedicatedAgents": 0,
+               "displayName": "Deutsches Zentrum fuer Luft- und Raumfahrt e.V. (DLR)",
+               "id": 1235,
+               "requestTickets": [ ],
+               "resourcePacks": 2
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "technology.m2e"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Red Hat, Inc.",
+               "id": 731,
+               "requestTickets": [
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3312"
+               ],
+               "resourcePacks": 1
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "tools.cdt"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Kichwa Coders Canada Inc.",
+               "id": 1125,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=551849"
+               ],
+               "resourcePacks": 1
+            },
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Renesas Electronics Corporation",
+               "id": 1069,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=551849"
+               ],
+               "resourcePacks": 1
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "tools.tracecompass"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Ericsson AB",
+               "id": 682,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=558483"
+               ],
+               "resourcePacks": 1
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "tools.oomph"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Vector Informatik GmbH",
+               "id": 816,
+               "requestTickets": [
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/1434"
+               ],
+               "resourcePacks": 1
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "modeling.mdt.papyrus"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "CEA LIST",
+               "id": 937,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=570916"
+               ],
+               "resourcePacks": 2
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "automotive.openpass"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "BMW Group",
+               "id": 1009,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=571945"
+               ],
+               "resourcePacks": 1
+            },
+            {
+               "comment": "",
+               "dedicatedAgents": 1,
+               "displayName": "Robert Bosch GmbH",
+               "id": 979,
+               "requestTickets": [
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=571989"
+               ],
+               "resourcePacks": 0
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "automotive.sumo"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Deutsches Zentrum fuer Luft- und Raumfahrt e.V. (DLR)",
+               "id": 1235,
+               "requestTickets": [
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/813"
+               ],
+               "resourcePacks": 1
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "iot.amlen"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "IBM",
+               "id": 656,
+               "requestTickets": [
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/1523"
+               ],
+               "resourcePacks": 1
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "technology.tycho"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Renesas Electronics Corporation",
+               "id": 1069,
+               "requestTickets": [
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/1958"
+               ],
+               "resourcePacks": 1
+            },
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Red Hat, Inc.",
+               "id": 731,
+               "requestTickets": [
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/1962"
+               ],
+               "resourcePacks": 1
+            },
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "SAP SE",
+               "id": 665,
+               "requestTickets": [
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/2197"
+               ],
+               "resourcePacks": 2
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "technology.set"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Scheidt & Bachmann System Technik GmbH",
+               "id": 1541,
+               "requestTickets": [
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/2235"
+               ],
+               "resourcePacks": 1
+            }
+         ]
+      }
+   ]
+}
