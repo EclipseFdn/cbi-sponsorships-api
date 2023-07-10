@@ -133,6 +133,15 @@
 			]
 		},
 
+
+		{
+			project: { id: "technology.m2e" },
+			sponsoringOrganizations: [
+				sponsoringOrg("Red Hat, Inc.", 1, tickets=["https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3312", ]),
+			]
+		},
+		
+
 		{
 			project: { id: "tools.cdt" },
 			sponsoringOrganizations: [
