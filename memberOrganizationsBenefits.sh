@@ -47,7 +47,7 @@ SELECT	Organizations.Name1 AS Organization,
 FROM Organizations	JOIN OrganizationMemberships
 		ON OrganizationMemberships.OrganizationID = Organizations.OrganizationID
 
-WHERE	(OrganizationMemberships.ExpiryDate = "0000-00-00 00:00:00" OR OrganizationMemberships.ExpiryDate IS NULL)
+WHERE	(OrganizationMemberships.ExpiryDate = "0000-00-00 00:00:00" OR OrganizationMemberships.ExpiryDate IS NULL OR OrganizationMemberships.ExpiryDate >= CURDATE() )
 
 GROUP BY Organizations.Name1, OrganizationMemberships.Relation
 ORDER BY Organizations.Name1
