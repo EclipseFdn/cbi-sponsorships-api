@@ -8,6 +8,7 @@ pipeline {
         NAMESPACE = 'foundation-internal-webdev-apps'
         IMAGE_NAME = 'eclipsefdn/cbi-sponsorships-api'
         CONTAINER_NAME = 'app'
+        ENVIRONMENT = 'production'
         TAG_NAME = sh(
             script: """
                 GIT_COMMIT_SHORT=\$(git rev-parse --short ${env.GIT_COMMIT})
