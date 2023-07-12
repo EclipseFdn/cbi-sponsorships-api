@@ -1241,12 +1241,6 @@
       },
       {
          "dedicatedAgents": 0,
-         "displayName": "itemis AG",
-         "id": 817,
-         "resourcePacks": 1
-      },
-      {
-         "dedicatedAgents": 0,
          "displayName": "Izmir JUG",
          "id": 1331,
          "membership": "Eclipse",
@@ -2930,6 +2924,23 @@
                "id": 863,
                "requestTickets": [
                   "https://bugs.eclipse.org/bugs/show_bug.cgi?id=548499"
+               ],
+               "resourcePacks": 1
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "modeling.tmf.xtext"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Advantest Europe GmbH",
+               "id": 1329,
+               "requestTickets": [
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3386"
                ],
                "resourcePacks": 1
             }

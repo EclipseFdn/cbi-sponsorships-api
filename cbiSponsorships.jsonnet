@@ -97,6 +97,13 @@
 				sponsoringOrg("OBEO", 1, tickets=["https://bugs.eclipse.org/bugs/show_bug.cgi?id=548499", ]),
 			]
 		},
+		
+		{
+			project: { id: "modeling.tmf.xtext" },
+			sponsoringOrganizations: [
+				sponsoringOrg("Advantest Europe GmbH", 1, tickets=["https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3386", ]),
+			]
+		},
 
 		{
 			project: { id: "polarsys.capella" },
