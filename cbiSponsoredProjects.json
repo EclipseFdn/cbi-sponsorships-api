@@ -1,0 +1,450 @@
+[
+  {
+    "project_id": "ecd.codewind",
+    "sponsoringOrganizations": [
+      {
+        "name": "IBM",
+        "resourcePacks": 2,
+        "dedicated": 0,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=548054#c18",
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=549494"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "project_id": "ecd.theia",
+    "sponsoringOrganizations": [
+      {
+        "name": "ARM Limited",
+        "resourcePacks": 2,
+        "dedicated": 0,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=564771"
+        ],
+        "comment": "Windows + macOS shared agents"
+      }
+    ]
+  },
+  {
+    "project_id": "eclipse.jdt",
+    "sponsoringOrganizations": [
+      {
+        "name": "IBM",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=559571"
+        ],
+        "comment": ""
+      },
+      {
+        "name": "Red Hat, Inc.",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/976"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "project_id": "eclipse.platform",
+    "sponsoringOrganizations": [
+      {
+        "name": "IBM",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=550270"
+        ],
+        "comment": ""
+      },
+      {
+        "name": "Red Hat, Inc.",
+        "resourcePacks": 2,
+        "dedicated": 0,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=550227",
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/976"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "project_id": "eclipse.platform.releng",
+    "sponsoringOrganizations": [
+      {
+        "name": "IBM",
+        "resourcePacks": 3,
+        "dedicated": 2,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=553027",
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=562609#c21",
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=562759"
+        ],
+        "comment": "1 pack for Windows shared agent (natives build)"
+      },
+      {
+        "name": "Red Hat, Inc.",
+        "resourcePacks": 3,
+        "dedicated": 1,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=552914",
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=562609#c15",
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/976"
+        ],
+        "comment": "1 pack for macOS shared agent (natives build)"
+      }
+    ]
+  },
+  {
+    "project_id": "ee4j.eclipselink",
+    "sponsoringOrganizations": [
+      {
+        "name": "Oracle",
+        "resourcePacks": 4,
+        "dedicated": 0,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=564240"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "project_id": "ee4j.glassfish",
+    "sponsoringOrganizations": [
+      {
+        "name": "Fujitsu Limited",
+        "resourcePacks": 5,
+        "dedicated": 0,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=564312"
+        ],
+        "comment": ""
+      },
+      {
+        "name": "Oracle",
+        "resourcePacks": 6,
+        "dedicated": 0,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=564744"
+        ],
+        "comment": ""
+      },
+      {
+        "name": "Payara Services Limited",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=564136"
+        ],
+        "comment": ""
+      },
+      {
+        "name": "Omnifish OU",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/2102"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "project_id": "ee4j.jakartaee-tck",
+    "sponsoringOrganizations": [
+      {
+        "name": "Fujitsu Limited",
+        "resourcePacks": 5,
+        "dedicated": 0,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=564312"
+        ],
+        "comment": ""
+      },
+      {
+        "name": "Tomitribe Corporation",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=564137"
+        ],
+        "comment": ""
+      },
+      {
+        "name": "Webtide LLC",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=564697"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "project_id": "modeling.sirius",
+    "sponsoringOrganizations": [
+      {
+        "name": "OBEO",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=548499"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "project_id": "modeling.tmf.xtext",
+    "sponsoringOrganizations": [
+      {
+        "name": "Advantest Europe GmbH",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3386"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "project_id": "polarsys.capella",
+    "sponsoringOrganizations": [
+      {
+        "name": "Thales",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=558264"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "project_id": "technology.egit",
+    "sponsoringOrganizations": [
+      {
+        "name": "SAP SE",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=548126"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "project_id": "technology.jgit",
+    "sponsoringOrganizations": [
+      {
+        "name": "SAP SE",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=548126"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "project_id": "technology.justj",
+    "sponsoringOrganizations": [
+      {
+        "name": "Deutsches Zentrum fuer Luft- und Raumfahrt e.V. (DLR)",
+        "resourcePacks": 2,
+        "dedicated": 0,
+        "tickets": [],
+        "comment": "2 packs for macOS and Windows shared agents (natives build)"
+      }
+    ]
+  },
+  {
+    "project_id": "technology.m2e",
+    "sponsoringOrganizations": [
+      {
+        "name": "Red Hat, Inc.",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3312"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "project_id": "tools.cdt",
+    "sponsoringOrganizations": [
+      {
+        "name": "Kichwa Coders Canada Inc.",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=551849"
+        ],
+        "comment": ""
+      },
+      {
+        "name": "Renesas Electronics Corporation",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=551849"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "project_id": "tools.tracecompass",
+    "sponsoringOrganizations": [
+      {
+        "name": "Ericsson AB",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=558483"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "project_id": "tools.oomph",
+    "sponsoringOrganizations": [
+      {
+        "name": "Vector Informatik GmbH",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/1434"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "project_id": "modeling.mdt.papyrus",
+    "sponsoringOrganizations": [
+      {
+        "name": "CEA LIST",
+        "resourcePacks": 2,
+        "dedicated": 0,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=570916"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "project_id": "automotive.openpass",
+    "sponsoringOrganizations": [
+      {
+        "name": "BMW Group",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=571945"
+        ],
+        "comment": ""
+      },
+      {
+        "name": "Robert Bosch GmbH",
+        "resourcePacks": 0,
+        "dedicated": 1,
+        "tickets": [
+          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=571989"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "project_id": "automotive.sumo",
+    "sponsoringOrganizations": [
+      {
+        "name": "Deutsches Zentrum fuer Luft- und Raumfahrt e.V. (DLR)",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/813"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "project_id": "iot.amlen",
+    "sponsoringOrganizations": [
+      {
+        "name": "IBM",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/1523"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "project_id": "technology.tycho",
+    "sponsoringOrganizations": [
+      {
+        "name": "Renesas Electronics Corporation",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/1958"
+        ],
+        "comment": ""
+      },
+      {
+        "name": "Red Hat, Inc.",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/1962"
+        ],
+        "comment": ""
+      },
+      {
+        "name": "SAP SE",
+        "resourcePacks": 2,
+        "dedicated": 0,
+        "tickets": [
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/2197"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "project_id": "technology.set",
+    "sponsoringOrganizations": [
+      {
+        "name": "Scheidt & Bachmann System Technik GmbH",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/2235"
+        ],
+        "comment": ""
+      }
+    ]
+  }
+]
