@@ -430,6 +430,15 @@
           "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/2197"
         ],
         "comment": ""
+      },
+      {
+        "name": "Sigasi",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "tickets": [
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3450"
+        ],
+        "comment": ""
       }
     ]
   },
