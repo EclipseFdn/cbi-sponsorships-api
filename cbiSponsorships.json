@@ -3111,9 +3111,10 @@
                "displayName": "BMW Group",
                "id": 1009,
                "requestTickets": [
-                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=571945"
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=571945",
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3685"
                ],
-               "resourcePacks": 1
+               "resourcePacks": 2
             },
             {
                "comment": "",
