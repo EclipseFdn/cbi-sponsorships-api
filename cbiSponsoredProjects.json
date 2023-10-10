@@ -370,6 +370,15 @@
           "https://bugs.eclipse.org/bugs/show_bug.cgi?id=571989"
         ],
         "comment": ""
+      },
+      {
+        "name": "Volkswagen Aktiengesellschaft",
+        "resourcePacks": 2,
+        "dedicated": 0,
+        "tickets": [
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3686"
+        ],
+        "comment": ""
       }
     ]
   },
