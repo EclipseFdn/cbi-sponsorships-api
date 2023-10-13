@@ -205,6 +205,13 @@
       },
       {
          "dedicatedAgents": 0,
+         "displayName": "ATOM Automotive Engineering and Technology (Nanjing) Co., Ltd",
+         "id": 1639,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
          "displayName": "AURA",
          "id": 1543,
          "membership": "Eclipse",
@@ -695,13 +702,6 @@
       },
       {
          "dedicatedAgents": 0,
-         "displayName": "Ecole de technologie superieure",
-         "id": 1182,
-         "membership": "OpenHardware",
-         "resourcePacks": 0
-      },
-      {
-         "dedicatedAgents": 0,
          "displayName": "ECSPEC",
          "id": 1432,
          "membership": "OpenHardware",
@@ -975,17 +975,17 @@
       },
       {
          "dedicatedAgents": 0,
-         "displayName": "Goldman Sachs Group, Inc.",
-         "id": 1183,
+         "displayName": "Google LLC",
+         "id": 1592,
          "membership": "Eclipse",
          "resourcePacks": 2
       },
       {
          "dedicatedAgents": 0,
-         "displayName": "Google LLC",
-         "id": 1592,
+         "displayName": "GPS BY DESIGN CENTRE",
+         "id": 1640,
          "membership": "Eclipse",
-         "resourcePacks": 2
+         "resourcePacks": 0
       },
       {
          "dedicatedAgents": 0,
@@ -1189,6 +1189,13 @@
          "id": 941,
          "membership": "Eclipse",
          "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Integration Objects",
+         "id": 1638,
+         "membership": "Eclipse",
+         "resourcePacks": 1
       },
       {
          "dedicatedAgents": 0,
@@ -2067,13 +2074,6 @@
       },
       {
          "dedicatedAgents": 0,
-         "displayName": "Silicon Assurance",
-         "id": 1578,
-         "membership": "OpenHardware",
-         "resourcePacks": 1
-      },
-      {
-         "dedicatedAgents": 0,
          "displayName": "Silicon Laboratories Inc.",
          "id": 1419,
          "membership": "OpenHardware",
@@ -2284,6 +2284,13 @@
       },
       {
          "dedicatedAgents": 0,
+         "displayName": "Technology Innovation Institute – Sole Proprietorship LLC",
+         "id": 1637,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
          "displayName": "Telecom Saint-Etienne",
          "id": 1231,
          "membership": "Eclipse",
@@ -2389,7 +2396,7 @@
       },
       {
          "dedicatedAgents": 0,
-         "displayName": "TUEV SUED Auto Service GmbH",
+         "displayName": "TÜV SÜD Auto Service GmbH",
          "id": 1273,
          "membership": "Eclipse",
          "resourcePacks": 2
@@ -3111,10 +3118,9 @@
                "displayName": "BMW Group",
                "id": 1009,
                "requestTickets": [
-                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=571945",
-                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3685"
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=571945"
                ],
-               "resourcePacks": 2
+               "resourcePacks": 1
             },
             {
                "comment": "",
@@ -3125,6 +3131,16 @@
                   "https://bugs.eclipse.org/bugs/show_bug.cgi?id=571989"
                ],
                "resourcePacks": 0
+            },
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Volkswagen Aktiengesellschaft",
+               "id": 1520,
+               "requestTickets": [
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3686"
+               ],
+               "resourcePacks": 2
             }
          ]
       },
@@ -3196,6 +3212,16 @@
                   "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/2197"
                ],
                "resourcePacks": 2
+            },
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Sigasi",
+               "id": 990,
+               "requestTickets": [
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3450"
+               ],
+               "resourcePacks": 1
             }
          ]
       },
