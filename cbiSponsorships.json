@@ -3114,6 +3114,16 @@
                   "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3686"
                ],
                "resourcePacks": 2
+            },
+            {
+               "comment": "",
+               "dedicatedAgents": 1,
+               "displayName": "Mercedes-Benz Tech Innovation GmbH",
+               "id": 1134,
+               "requestTickets": [
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3687"
+               ],
+               "resourcePacks": 0
             }
          ]
       },
