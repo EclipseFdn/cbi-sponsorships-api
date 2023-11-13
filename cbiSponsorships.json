@@ -282,13 +282,6 @@
       },
       {
          "dedicatedAgents": 0,
-         "displayName": "Beijing Vsettan Data Technology Co. Ltd.",
-         "id": 1557,
-         "membership": "Eclipse",
-         "resourcePacks": 1
-      },
-      {
-         "dedicatedAgents": 0,
          "displayName": "Berylls Group GmbH & subsidiaries",
          "id": 1623,
          "membership": "Eclipse",
@@ -1206,10 +1199,10 @@
       },
       {
          "dedicatedAgents": 0,
-         "displayName": "Intel Corporation",
-         "id": 657,
-         "membership": "OpenHardware",
-         "resourcePacks": 2
+         "displayName": "International Data Spaces e. V",
+         "id": 1641,
+         "membership": "Eclipse",
+         "resourcePacks": 0
       },
       {
          "dedicatedAgents": 0,
@@ -1227,17 +1220,17 @@
       },
       {
          "dedicatedAgents": 0,
-         "displayName": "IoTex Foundation",
-         "id": 1593,
-         "membership": "Eclipse",
-         "resourcePacks": 1
-      },
-      {
-         "dedicatedAgents": 0,
          "displayName": "IRISA",
          "id": 1222,
          "membership": "Eclipse",
          "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "iSHARE Foundation",
+         "id": 1643,
+         "membership": "Eclipse",
+         "resourcePacks": 1
       },
       {
          "dedicatedAgents": 0,
@@ -1468,13 +1461,6 @@
          "displayName": "Mango Software Labs",
          "id": 862,
          "membership": "Eclipse",
-         "resourcePacks": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "displayName": "McMaster University",
-         "id": 1527,
-         "membership": "OpenHardware",
          "resourcePacks": 0
       },
       {
@@ -1892,6 +1878,13 @@
       },
       {
          "dedicatedAgents": 0,
+         "displayName": "PX5",
+         "id": 1642,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
          "displayName": "Qualcomm Innovation Center",
          "id": 1632,
          "membership": "Eclipse",
@@ -1916,13 +1909,6 @@
          "displayName": "QuickLogic Foundation",
          "id": 1463,
          "membership": "OpenHardware",
-         "resourcePacks": 1
-      },
-      {
-         "dedicatedAgents": 0,
-         "displayName": "Rapid Space International SAS",
-         "id": 1617,
-         "membership": "Eclipse",
          "resourcePacks": 1
       },
       {
@@ -2242,13 +2228,6 @@
       },
       {
          "dedicatedAgents": 0,
-         "displayName": "Tasktop",
-         "id": 870,
-         "membership": "Eclipse",
-         "resourcePacks": 1
-      },
-      {
-         "dedicatedAgents": 0,
          "displayName": "Technion",
          "id": 1493,
          "membership": "OpenHardware",
@@ -2515,7 +2494,7 @@
       },
       {
          "dedicatedAgents": 0,
-         "displayName": "University of L' Aquila",
+         "displayName": "University of L'Aquila",
          "id": 1249,
          "membership": "Eclipse",
          "resourcePacks": 0
@@ -2651,13 +2630,6 @@
          "displayName": "Webtide LLC",
          "id": 1221,
          "membership": "Eclipse",
-         "resourcePacks": 1
-      },
-      {
-         "dedicatedAgents": 0,
-         "displayName": "XMOS Ltd",
-         "id": 1537,
-         "membership": "OpenHardware",
          "resourcePacks": 1
       },
       {
@@ -3118,9 +3090,10 @@
                "displayName": "BMW Group",
                "id": 1009,
                "requestTickets": [
-                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=571945"
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=571945",
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3685"
                ],
-               "resourcePacks": 1
+               "resourcePacks": 2
             },
             {
                "comment": "",
