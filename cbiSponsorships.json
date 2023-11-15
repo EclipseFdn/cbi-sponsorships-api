@@ -2634,6 +2634,13 @@
       },
       {
          "dedicatedAgents": 0,
+         "displayName": "Witekio Holding",
+         "id": 1644,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
          "displayName": "Yatta Solutions GmbH",
          "id": 1006,
          "membership": "Eclipse",
@@ -2721,6 +2728,23 @@
                   "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/976"
                ],
                "resourcePacks": 1
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "eclipse.jdt.ls"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Red Hat, Inc.",
+               "id": 731,
+               "requestTickets": [
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3947"
+               ],
+               "resourcePacks": 2
             }
          ]
       },

@@ -52,6 +52,20 @@
     ]
   },
   {
+    "project_id": "eclipse.jdt.ls",
+    "sponsoringOrganizations": [
+      {
+        "name": "Red Hat, Inc.",
+        "resourcePacks": 2,
+        "dedicated": 0,
+        "tickets": [
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3947"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
     "project_id": "eclipse.platform",
     "sponsoringOrganizations": [
       {
