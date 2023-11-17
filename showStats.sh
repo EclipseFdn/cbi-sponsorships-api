@@ -8,8 +8,8 @@
 # SPDX-License-Identifier: EPL-2.0 OR MIT
 #*******************************************************************************
 
-# Shows stats for resource packs and dedicated agents
-# Only sponsors are shown where at least one resource pack or dedicated agents is used
+# Checks stats for additional resources (resource packs, dedicated agents and GitHub large runners)
+# Only sponsors are shown where at least one resource pack, dedicated agent or GitHub large runner is used
 
 # Bash strict-mode
 set -o errexit
@@ -39,8 +39,8 @@ get_used() {
 show_usage_stats() {
   local title="${1:-}"
   local res="${2:-}"
-  if [[ "${res}" != "resourcePacks" ]] && [[ "${res}" != "dedicatedAgents" ]]; then
-    echo "Only 'resourcePacks' or 'dedicatedAgents' are supported as second parameter!"
+  if [[ "${res}" != "resourcePacks" ]] && [[ "${res}" != "dedicatedAgents" ]] && [[ "${res}" != "ghLargeRunners" ]]; then
+    echo "Only 'resourcePacks', 'dedicatedAgents' or 'ghLargeRunners' are supported as second parameter!"
     exit 1
   fi
   printf "%s\n" "${title}"
@@ -75,3 +75,5 @@ show_usage_stats() {
 show_usage_stats "Resource Packs Stats" "resourcePacks"
 echo
 show_usage_stats "Dedicated Agents Stats" "dedicatedAgents"
+echo
+show_usage_stats "GitHub Large Runners Stats" "ghLargeRunners"

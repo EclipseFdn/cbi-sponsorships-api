@@ -8,8 +8,7 @@
 # SPDX-License-Identifier: EPL-2.0 OR MIT
 #*******************************************************************************
 
-# Shows stats for resource packs and dedicated agents
-# Only sponsors are shown where at least one resource pack or dedicated agents is used
+# Checks stats for additional resources (resource packs, dedicated agents and GitHub large runners)
 
 # Bash strict-mode
 set -o errexit
@@ -23,7 +22,7 @@ SCRIPT_FOLDER="$(dirname "$(readlink -f "${0}")")"
 JSON_FILE="${SCRIPT_FOLDER}/cbiSponsorships.json"
 
 SPONSOR_NAME="${1:-}"
-RES="${2:-}" # resourcePacks or dedicatedAgents
+RES="${2:-}" # resourcePacks/dedicatedAgents/ghLargeRunners
 
 if [ -z "${SPONSOR_NAME}" ]; then
   printf "ERROR: a sponsor name must be given.\n"
@@ -31,26 +30,26 @@ if [ -z "${SPONSOR_NAME}" ]; then
 fi
 
 if [ -z "${RES}" ]; then
-  printf "ERROR: a resource name must be given ('resourcePacks' or 'dedicatedAgents').\n"
+  printf "ERROR: a resource name must be given ('resourcePacks', 'dedicatedAgents' or 'ghLargeRunners').\n"
   exit 1
 fi
 
-if [ "${RES}" != "resourcePacks" ] && [ "${RES}" != "dedicatedAgents" ]; then
-  printf "ERROR: resource name must be either 'resourcePacks' or 'dedicatedAgents'.\n"
+if [ "${RES}" != "resourcePacks" ] && [ "${RES}" != "dedicatedAgents" ] && [ "${RES}" != "ghLargeRunners" ]; then
+  printf "ERROR: resource name must be either 'resourcePacks', 'dedicatedAgents' or 'ghLargeRunners'.\n"
   exit 1
 fi
 
 exit_code=0
 
 get_total() {
-  # get total number of resource packs or dedicated agents
+  # get total number of resource packs/dedicated agents/ghLargeRunners
   local name="${1:-}"
   local res="${2:-}"
   jq -r ".memberOrganizationsBenefits[] | select(.displayName==\"${name}\") | .${res}" < "${JSON_FILE}"
 }
 
 get_used() {
-  # get number of used resource packs or dedicated agents
+  # get number of used resource packs/dedicated agents/ghLargeRunners
   local sponsorList="${1:-}"
   local name="${2:-}"
   local res="${3:-}"
@@ -61,8 +60,8 @@ get_used() {
 check_usage_stats() {
   local title="${1:-}"
   local res="${2:-}"
-  if [[ "${res}" != "resourcePacks" ]] && [[ "${res}" != "dedicatedAgents" ]]; then
-    echo "Only 'resourcePacks' or 'dedicatedAgents' are supported as second parameter!"
+  if [[ "${res}" != "resourcePacks" ]] && [[ "${res}" != "dedicatedAgents" ]] && [[ "${res}" != "ghLargeRunners" ]]; then
+    echo "Only 'resourcePacks', 'dedicatedAgents' or 'ghLargeRunners' are supported as second parameter!"
     exit 1
   fi
   printf "%s\n" "${title}"
@@ -103,7 +102,7 @@ fi
 
 avail="$((total - used))"
 if [[ "${avail}" -lt 0 ]]; then
-  echo "No resource packs available" >&2
+  echo "No additional resources available" >&2
   exit_code=1
 else
   echo "${avail}"

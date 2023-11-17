@@ -63,10 +63,11 @@ printf '[\n' > "${OUTPUT_JSONNET}"
 
 # shellcheck disable=SC2029
 for orgbenefits in $(ssh foundation "mysql --defaults-extra-file='${REMOTE_MYSQL_CONFIG_FILE}' --default-character-set=utf8mb4 --batch --skip-column-names --execute '${QUERY}'" | tr '\t' '|' ); do
-  printf $'\t{id: %d, displayName: "%s", resourcePacks: %d, dedicatedAgents: %d, membership: "%s"},\n' \
+  printf $'\t{id: %d, displayName: "%s", resourcePacks: %d, dedicatedAgents: %d, ghLargeRunners: %d, membership: "%s"},\n' \
     "$(cut -d'|' -f2 <<<"${orgbenefits}")" \
     "$( (cut -d'|' -f1 | perl -CS -MHTML::Entities -ne 'print decode_entities($_)' ) <<<"${orgbenefits}")" \
     "$(cut -d'|' -f3 <<<"${orgbenefits}")" \
+    "$(cut -d'|' -f4 <<<"${orgbenefits}")" \
     "$(cut -d'|' -f4 <<<"${orgbenefits}")" \
     "$(ms=$(cut -d'|' -f5 <<<"${orgbenefits}"); [[ "${ms}" == "OH"* ]] && echo "OpenHardware" || echo "Eclipse" )" \
      >> "${OUTPUT_JSONNET}"

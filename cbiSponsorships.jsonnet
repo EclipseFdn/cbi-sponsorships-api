@@ -1,10 +1,11 @@
 {
 	memberOrganizationsBenefits: import './memberOrganizationsBenefits.jsonnet',
-	local sponsoringOrg(name, packs=0, dedicated=0, tickets=[], comment="") = {
+	local sponsoringOrg(name, packs=0, dedicated=0, runners=0, tickets=[], comment="") = {
       id: std.filter(function(it) it.displayName == name, $.memberOrganizationsBenefits)[0].id,
       displayName: name,
       resourcePacks: packs,
       dedicatedAgents: dedicated,
+      ghLargeRunners: runners,
       requestTickets: tickets,
       comment: comment,
     },
@@ -12,7 +13,7 @@
       project: {id: project_id},
       sponsoringOrganizations: [
         //TODO: or just copy content from import?
-        sponsoringOrg(so["name"], so["resourcePacks"], so["dedicated"], so["tickets"], so["comment"]) for so in sponsorOrgs
+        sponsoringOrg(so["name"], so["resourcePacks"], so["dedicated"], so["runners"], so["tickets"], so["comment"]) for so in sponsorOrgs
       ]
     },
 
