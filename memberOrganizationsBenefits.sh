@@ -8,6 +8,10 @@ set -o pipefail
 IFS=$'\n\t'
 SCRIPT_FOLDER="$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")"
 
+LOCAL_CONFIG="${HOME}/.cbi/config"
+PASSWORD_STORE_DIR="$(jq -r '."password-store"."it-dir"' < "${LOCAL_CONFIG}")"
+export PASSWORD_STORE_DIR
+
 # Membership metadata are in foundation's DB
 read -r -d '' MYSQL_CONFIG <<EOF || :
 [client]
