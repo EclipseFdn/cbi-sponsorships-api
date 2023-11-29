@@ -543,5 +543,20 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "project_id": "eclipse.pde",
+    "sponsoringOrganizations": [
+      {
+        "name": "SAP SE",
+        "resourcePacks": 2,
+        "dedicated": 0,
+        "runners": 0,
+        "tickets": [
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/4016"
+        ],
+        "comment": ""
+      }
+    ]
   }
 ]

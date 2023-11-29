@@ -202,14 +202,6 @@
       },
       {
          "dedicatedAgents": 0,
-         "displayName": "ArSysOp",
-         "ghLargeRunners": 0,
-         "id": 1467,
-         "membership": "Eclipse",
-         "resourcePacks": 1
-      },
-      {
-         "dedicatedAgents": 0,
          "displayName": "ASAM e.V.",
          "ghLargeRunners": 0,
          "id": 1174,
@@ -551,6 +543,14 @@
          "id": 1310,
          "membership": "Eclipse",
          "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Cirrus Logic",
+         "ghLargeRunners": 0,
+         "id": 1647,
+         "membership": "OpenHardware",
+         "resourcePacks": 2
       },
       {
          "dedicatedAgents": 0,
@@ -1178,14 +1178,6 @@
       },
       {
          "dedicatedAgents": 0,
-         "displayName": "Hazelcast Inc",
-         "ghLargeRunners": 0,
-         "id": 1262,
-         "membership": "Eclipse",
-         "resourcePacks": 1
-      },
-      {
-         "dedicatedAgents": 0,
          "displayName": "hbz",
          "ghLargeRunners": 0,
          "id": 1072,
@@ -1223,14 +1215,6 @@
          "id": 1122,
          "membership": "Eclipse",
          "resourcePacks": 1
-      },
-      {
-         "dedicatedAgents": 0,
-         "displayName": "Huawei Technologies Co., LTD.",
-         "ghLargeRunners": 0,
-         "id": 1380,
-         "membership": "OpenHardware",
-         "resourcePacks": 2
       },
       {
          "dedicatedAgents": 2,
@@ -3141,6 +3125,7 @@
                "comment": "",
                "dedicatedAgents": 0,
                "displayName": "Red Hat, Inc.",
+               "ghLargeRunners": 0,
                "id": 731,
                "requestTickets": [
                   "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3947"
@@ -3700,6 +3685,24 @@
                   "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3859"
                ],
                "resourcePacks": 0
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "eclipse.pde"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "SAP SE",
+               "ghLargeRunners": 0,
+               "id": 665,
+               "requestTickets": [
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/4016"
+               ],
+               "resourcePacks": 2
             }
          ]
       }
