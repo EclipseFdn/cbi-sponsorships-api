@@ -1,21 +1,5 @@
 [
   {
-    "project_id": "ecd.codewind",
-    "sponsoringOrganizations": [
-      {
-        "name": "IBM",
-        "resourcePacks": 2,
-        "dedicated": 0,
-        "runners": 0,
-        "tickets": [
-          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=548054#c18",
-          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=549494"
-        ],
-        "comment": ""
-      }
-    ]
-  },
-  {
     "project_id": "ecd.theia",
     "sponsoringOrganizations": [
       {

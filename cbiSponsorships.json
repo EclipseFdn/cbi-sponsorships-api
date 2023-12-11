@@ -2185,6 +2185,14 @@
          "resourcePacks": 1
       },
       {
+         "dedicatedAgents": 0,
+         "displayName": "Red Hat, Inc.",
+         "ghLargeRunners": 0,
+         "id": 731,
+         "membership": "OpenHardware",
+         "resourcePacks": 0
+      },
+      {
          "dedicatedAgents": 2,
          "displayName": "Red Hat, Inc.",
          "ghLargeRunners": 2,
@@ -2423,6 +2431,14 @@
          "id": 1118,
          "membership": "Eclipse",
          "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Sonatype Inc.",
+         "ghLargeRunners": 0,
+         "id": 1649,
+         "membership": "Eclipse",
+         "resourcePacks": 2
       },
       {
          "dedicatedAgents": 0,
@@ -3050,25 +3066,6 @@
       }
    ],
    "sponsoredProjects": [
-      {
-         "project": {
-            "id": "ecd.codewind"
-         },
-         "sponsoringOrganizations": [
-            {
-               "comment": "",
-               "dedicatedAgents": 0,
-               "displayName": "IBM",
-               "ghLargeRunners": 0,
-               "id": 656,
-               "requestTickets": [
-                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=548054#c18",
-                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=549494"
-               ],
-               "resourcePacks": 2
-            }
-         ]
-      },
       {
          "project": {
             "id": "ecd.theia"
