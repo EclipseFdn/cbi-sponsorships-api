@@ -474,6 +474,14 @@
       },
       {
          "dedicatedAgents": 0,
+         "displayName": "Catena-X Automotive Network e.V",
+         "ghLargeRunners": 0,
+         "id": 1656,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
          "displayName": "CEA LIST",
          "ghLargeRunners": 0,
          "id": 937,
@@ -582,6 +590,14 @@
          "ghLargeRunners": 0,
          "id": 1407,
          "membership": "OpenHardware",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "co4e GmbH",
+         "ghLargeRunners": 0,
+         "id": 1648,
+         "membership": "Eclipse",
          "resourcePacks": 1
       },
       {
@@ -1022,7 +1038,7 @@
          "ghLargeRunners": 0,
          "id": 1545,
          "membership": "OpenHardware",
-         "resourcePacks": 1
+         "resourcePacks": 0
       },
       {
          "dedicatedAgents": 0,
@@ -1167,6 +1183,14 @@
          "id": 1359,
          "membership": "Eclipse",
          "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Harman International",
+         "ghLargeRunners": 0,
+         "id": 1654,
+         "membership": "Eclipse",
+         "resourcePacks": 2
       },
       {
          "dedicatedAgents": 0,
@@ -1362,14 +1386,6 @@
       },
       {
          "dedicatedAgents": 0,
-         "displayName": "Intel Corporation",
-         "ghLargeRunners": 0,
-         "id": 657,
-         "membership": "Eclipse",
-         "resourcePacks": 2
-      },
-      {
-         "dedicatedAgents": 0,
          "displayName": "International Data Spaces e. V",
          "ghLargeRunners": 0,
          "id": 1641,
@@ -1383,14 +1399,6 @@
          "id": 1504,
          "membership": "Eclipse",
          "resourcePacks": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "displayName": "Intrinsix Corp.",
-         "ghLargeRunners": 0,
-         "id": 1490,
-         "membership": "OpenHardware",
-         "resourcePacks": 1
       },
       {
          "dedicatedAgents": 0,
@@ -1453,6 +1461,14 @@
          "displayName": "JavaPro",
          "ghLargeRunners": 0,
          "id": 1258,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Johannes Kepler University Linz",
+         "ghLargeRunners": 0,
+         "id": 1651,
          "membership": "Eclipse",
          "resourcePacks": 0
       },
@@ -1735,6 +1751,14 @@
          "id": 1196,
          "membership": "Eclipse",
          "resourcePacks": 10
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "MTÜ Nordic Institute for Interoperability Solutions",
+         "ghLargeRunners": 0,
+         "id": 1653,
+         "membership": "Eclipse",
+         "resourcePacks": 0
       },
       {
          "dedicatedAgents": 0,
@@ -2506,6 +2530,14 @@
       },
       {
          "dedicatedAgents": 0,
+         "displayName": "Storm Reply GmbH",
+         "ghLargeRunners": 0,
+         "id": 1652,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
          "displayName": "SUSE LLC",
          "ghLargeRunners": 0,
          "id": 1539,
@@ -2653,6 +2685,14 @@
          "displayName": "The Johns Hopkins University",
          "ghLargeRunners": 0,
          "id": 1486,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "The Matrix.org Foundation C.I.C.",
+         "ghLargeRunners": 0,
+         "id": 1655,
          "membership": "Eclipse",
          "resourcePacks": 0
       },
