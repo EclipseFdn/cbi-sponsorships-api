@@ -106,6 +106,16 @@
           "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/976"
         ],
         "comment": "1 pack for macOS shared agent (natives build)"
+      },
+      {
+        "name": "Robert Bosch GmbH",
+        "resourcePacks": 0,
+        "dedicated": 1,
+        "runners": 0,
+        "tickets": [
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/4276"
+        ],
+        "comment": ""
       }
     ]
   },

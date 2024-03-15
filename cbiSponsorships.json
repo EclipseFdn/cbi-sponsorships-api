@@ -618,14 +618,6 @@
       },
       {
          "dedicatedAgents": 0,
-         "displayName": "Compex Systemhaus GmbH",
-         "ghLargeRunners": 0,
-         "id": 1195,
-         "membership": "Eclipse",
-         "resourcePacks": 1
-      },
-      {
-         "dedicatedAgents": 0,
          "displayName": "Concordia University Ptidej Team CSSE",
          "ghLargeRunners": 0,
          "id": 1361,
@@ -986,6 +978,14 @@
       },
       {
          "dedicatedAgents": 0,
+         "displayName": "FEV.io GmbH",
+         "ghLargeRunners": 0,
+         "id": 1661,
+         "membership": "Eclipse",
+         "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
          "displayName": "Flow Software, Inc.",
          "ghLargeRunners": 0,
          "id": 1503,
@@ -1250,14 +1250,6 @@
       },
       {
          "dedicatedAgents": 0,
-         "displayName": "Hunan AsiaInfo Anhui Technology Limited",
-         "ghLargeRunners": 0,
-         "id": 1532,
-         "membership": "Eclipse",
-         "resourcePacks": 1
-      },
-      {
-         "dedicatedAgents": 0,
          "displayName": "IAV ",
          "ghLargeRunners": 0,
          "id": 1612,
@@ -1346,6 +1338,14 @@
       },
       {
          "dedicatedAgents": 0,
+         "displayName": "Information Systems & Databases (DBIS,Informatik 5) of RWTH Aachen University",
+         "ghLargeRunners": 0,
+         "id": 1367,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
          "displayName": "INRIA",
          "ghLargeRunners": 0,
          "id": 959,
@@ -1373,6 +1373,14 @@
          "displayName": "Instituto de Pesquisas Eldorado",
          "ghLargeRunners": 0,
          "id": 941,
+         "membership": "Eclipse",
+         "resourcePacks": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Instituto Tecnológico de Infomática",
+         "ghLargeRunners": 0,
+         "id": 1663,
          "membership": "Eclipse",
          "resourcePacks": 0
       },
@@ -1642,6 +1650,14 @@
       },
       {
          "dedicatedAgents": 0,
+         "displayName": "Lunatech Labs B.V.",
+         "ghLargeRunners": 0,
+         "id": 1659,
+         "membership": "Eclipse",
+         "resourcePacks": 1
+      },
+      {
+         "dedicatedAgents": 0,
          "displayName": "Luxoft GmbH",
          "ghLargeRunners": 0,
          "id": 1602,
@@ -1754,14 +1770,6 @@
       },
       {
          "dedicatedAgents": 0,
-         "displayName": "MTÜ Nordic Institute for Interoperability Solutions",
-         "ghLargeRunners": 0,
-         "id": 1653,
-         "membership": "Eclipse",
-         "resourcePacks": 0
-      },
-      {
-         "dedicatedAgents": 0,
          "displayName": "MU Electronics ",
          "ghLargeRunners": 0,
          "id": 1583,
@@ -1815,6 +1823,14 @@
          "id": 1542,
          "membership": "Eclipse",
          "resourcePacks": 2
+      },
+      {
+         "dedicatedAgents": 0,
+         "displayName": "Nordic Institute for Interoperability Solutions",
+         "ghLargeRunners": 0,
+         "id": 1653,
+         "membership": "Eclipse",
+         "resourcePacks": 0
       },
       {
          "dedicatedAgents": 0,
@@ -3231,6 +3247,17 @@
                   "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/976"
                ],
                "resourcePacks": 3
+            },
+            {
+               "comment": "",
+               "dedicatedAgents": 1,
+               "displayName": "Robert Bosch GmbH",
+               "ghLargeRunners": 0,
+               "id": 979,
+               "requestTickets": [
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/4276"
+               ],
+               "resourcePacks": 0
             }
          ]
       },
