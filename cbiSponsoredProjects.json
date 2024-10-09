@@ -391,17 +391,6 @@
     "project_id": "automotive.openpass",
     "sponsoringOrganizations": [
       {
-        "name": "BMW Group",
-        "resourcePacks": 2,
-        "dedicated": 0,
-        "runners": 0,
-        "tickets": [
-          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=571945",
-          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3685"
-        ],
-        "comment": ""
-      },
-      {
         "name": "Robert Bosch GmbH",
         "resourcePacks": 0,
         "dedicated": 1,
@@ -428,6 +417,21 @@
         "runners": 0,
         "tickets": [
           "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3687"
+        ],
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "project_id": "automotive.scm",
+    "sponsoringOrganizations": [
+      {
+        "name": "BMW Group",
+        "resourcePacks": 2,
+        "dedicated": 0,
+        "runners": 0,
+        "tickets": [
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/5069"
         ],
         "comment": ""
       }
