@@ -36,6 +36,28 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "3DS Outscale",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1691,
+         "membership": "Eclipse",
+         "resourcePacks": 2,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "Acceler Logic (Pvt) Ltd",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1694,
+         "membership": "OpenHardware",
+         "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "Accenture GmbH",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -113,17 +135,6 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "AIRBUS",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1032,
-         "membership": "Eclipse",
-         "resourcePacks": 2,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
          "displayName": "Alean-Tec",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -146,12 +157,12 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "Aloxy",
+         "displayName": "Allison Transmission, Inc.",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
-         "id": 1371,
+         "id": 1696,
          "membership": "Eclipse",
-         "resourcePacks": 1,
+         "resourcePacks": 2,
          "resourcePacks_used": 0
       },
       {
@@ -234,17 +245,6 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "ARCAD Software",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1500,
-         "membership": "Eclipse",
-         "resourcePacks": 1,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
          "displayName": "ARM Limited",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -262,17 +262,6 @@
          "id": 1547,
          "membership": "Eclipse",
          "resourcePacks": 1,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
-         "displayName": "ARRK Engineering GmbH",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1564,
-         "membership": "Eclipse",
-         "resourcePacks": 2,
          "resourcePacks_used": 0
       },
       {
@@ -322,17 +311,6 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "ATOM Automotive Engineering and Technology (Nanjing) Co., Ltd",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1639,
-         "membership": "Eclipse",
-         "resourcePacks": 1,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
          "displayName": "AURA",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -355,23 +333,23 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "Azul Systems, Inc",
+         "displayName": "Axelera AI",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
-         "id": 1166,
-         "membership": "Eclipse",
+         "id": 1671,
+         "membership": "OpenHardware",
          "resourcePacks": 1,
          "resourcePacks_used": 0
       },
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "Bachmann Electronic GmbH",
+         "displayName": "Azul Systems, Inc",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
-         "id": 1172,
+         "id": 1166,
          "membership": "Eclipse",
-         "resourcePacks": 0,
+         "resourcePacks": 1,
          "resourcePacks_used": 0
       },
       {
@@ -520,7 +498,7 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "BNY Mellon",
+         "displayName": "BNY",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 1479,
@@ -784,6 +762,17 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "Clever Cloud SAS",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1681,
+         "membership": "Eclipse",
+         "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "CloudBees Inc.",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -828,12 +817,12 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "Codasip s.r.o",
+         "displayName": "CodeDay",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
-         "id": 1573,
-         "membership": "OpenHardware",
-         "resourcePacks": 1,
+         "id": 1682,
+         "membership": "Eclipse",
+         "resourcePacks": 0,
          "resourcePacks_used": 0
       },
       {
@@ -867,17 +856,6 @@
          "id": 893,
          "membership": "Eclipse",
          "resourcePacks": 0,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
-         "displayName": "Contact Software GmbH",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1252,
-         "membership": "Eclipse",
-         "resourcePacks": 1,
          "resourcePacks_used": 0
       },
       {
@@ -927,23 +905,23 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "Cubit Innovation Labs",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1569,
-         "membership": "Eclipse",
-         "resourcePacks": 0,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
          "displayName": "Cummins Inc",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 1608,
          "membership": "Eclipse",
          "resourcePacks": 2,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "Cumulocity GmbH",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1701,
+         "membership": "Eclipse",
+         "resourcePacks": 0,
          "resourcePacks_used": 0
       },
       {
@@ -1048,12 +1026,12 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "develop  group Basys GmbH",
+         "displayName": "DIN e.V.",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
-         "id": 1169,
+         "id": 1672,
          "membership": "Eclipse",
-         "resourcePacks": 1,
+         "resourcePacks": 0,
          "resourcePacks_used": 0
       },
       {
@@ -1092,17 +1070,6 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "Dolphin Design ",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1509,
-         "membership": "OpenHardware",
-         "resourcePacks": 1,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
          "displayName": "DZone, Inc.",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -1129,6 +1096,28 @@
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 690,
+         "membership": "Eclipse",
+         "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "Ejad for Engineering Systems",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1702,
+         "membership": "Eclipse",
+         "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "ekxide IO GmbH",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1697,
          "membership": "Eclipse",
          "resourcePacks": 1,
          "resourcePacks_used": 0
@@ -1163,28 +1152,6 @@
          "ghLargeRunners_used": 0,
          "id": 1439,
          "membership": "OpenHardware",
-         "resourcePacks": 1,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
-         "displayName": "Empaiot Pte. Ltd",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1610,
-         "membership": "OpenHardware",
-         "resourcePacks": 1,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
-         "displayName": "EMQ Technologies Inc",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1577,
-         "membership": "Eclipse",
          "resourcePacks": 1,
          "resourcePacks_used": 0
       },
@@ -1404,6 +1371,17 @@
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 1034,
+         "membership": "Eclipse",
+         "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "FreeBSD Foundation",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1688,
          "membership": "Eclipse",
          "resourcePacks": 0,
          "resourcePacks_used": 0
@@ -1719,6 +1697,28 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "I Machines, Inc",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1699,
+         "membership": "OpenHardware",
+         "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "IAST Software Solutions Pvt. Ltd.",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1687,
+         "membership": "Eclipse",
+         "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "IAV ",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -1780,17 +1780,6 @@
          "id": 1321,
          "membership": "Eclipse",
          "resourcePacks": 0,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
-         "displayName": "Imperas Software Ltd",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1431,
-         "membership": "OpenHardware",
-         "resourcePacks": 1,
          "resourcePacks_used": 0
       },
       {
@@ -1888,6 +1877,17 @@
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 941,
+         "membership": "Eclipse",
+         "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "Instituto de Telecomunicações",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1698,
          "membership": "Eclipse",
          "resourcePacks": 0,
          "resourcePacks_used": 0
@@ -2148,6 +2148,17 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "L&T Technology Services Ltd",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1695,
+         "membership": "Eclipse",
+         "resourcePacks": 2,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "L'Embarque",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -2379,6 +2390,17 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "Michelin",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1679,
+         "membership": "Eclipse",
+         "resourcePacks": 2,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "Michigan State University Facility for Rare Isotope Beams",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -2489,7 +2511,7 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "Nokia Solutions and Networks Oy",
+         "displayName": "Nokia",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 1542,
@@ -2621,6 +2643,17 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "Open Infrastructure Foundation",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1685,
+         "membership": "Eclipse",
+         "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "Open Robotics",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -2658,6 +2691,17 @@
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 1071,
+         "membership": "Eclipse",
+         "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "Open Source Initiative",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1704,
          "membership": "Eclipse",
          "resourcePacks": 0,
          "resourcePacks_used": 0
@@ -2742,6 +2786,17 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "OpenSSL Software Foundation Inc",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1675,
+         "membership": "Eclipse",
+         "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "OpenUK",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -2786,6 +2841,17 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "Ostfalia University",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1705,
+         "membership": "Eclipse",
+         "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "OSU Open Source Lab",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -2819,12 +2885,12 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "PATEO CONNECT+ Technology (Shanghai) Corporation",
+         "displayName": "OWASP Foundation, Inc.",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
-         "id": 1576,
+         "id": 1676,
          "membership": "Eclipse",
-         "resourcePacks": 1,
+         "resourcePacks": 0,
          "resourcePacks_used": 0
       },
       {
@@ -2907,17 +2973,6 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "pragmatic industries GmbH",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1440,
-         "membership": "Eclipse",
-         "resourcePacks": 1,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
          "displayName": "Primeton Information Technologies, Inc",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -2951,6 +3006,17 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "Proven Technologies GmbH",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1706,
+         "membership": "Eclipse",
+         "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "PTA GmbH",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -2966,6 +3032,28 @@
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 1642,
+         "membership": "Eclipse",
+         "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "Python Software Foundation",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1673,
+         "membership": "Eclipse",
+         "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "Qorix GmbH",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1693,
          "membership": "Eclipse",
          "resourcePacks": 1,
          "resourcePacks_used": 0
@@ -3127,6 +3215,17 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "Ruby Central, Inc.",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1700,
+         "membership": "Eclipse",
+         "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "Rumble Development Corp.",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -3144,6 +3243,17 @@
          "id": 1670,
          "membership": "Eclipse",
          "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "SAG Integration GmbH",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 804,
+         "membership": "Eclipse",
+         "resourcePacks": 2,
          "resourcePacks_used": 0
       },
       {
@@ -3314,21 +3424,21 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "Software AG",
+         "displayName": "Software and Support Media GmbH",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
-         "id": 804,
+         "id": 802,
          "membership": "Eclipse",
-         "resourcePacks": 2,
+         "resourcePacks": 0,
          "resourcePacks_used": 0
       },
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "Software and Support Media GmbH",
+         "displayName": "Software Heritage Foundation - Inria Foundation",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
-         "id": 802,
+         "id": 1703,
          "membership": "Eclipse",
          "resourcePacks": 0,
          "resourcePacks_used": 0
@@ -3468,6 +3578,28 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "Stichting Blender Foundation",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1680,
+         "membership": "Eclipse",
+         "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "Stichting NLnet Labs",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1686,
+         "membership": "Eclipse",
+         "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "STMicroelectronics International N.V.",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -3534,6 +3666,17 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "Synopsys",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1431,
+         "membership": "OpenHardware",
+         "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "Synthara AG",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -3549,17 +3692,6 @@
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 1589,
-         "membership": "Eclipse",
-         "resourcePacks": 2,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
-         "displayName": "Talend SAS",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 857,
          "membership": "Eclipse",
          "resourcePacks": 2,
          "resourcePacks_used": 0
@@ -3688,6 +3820,28 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "THE COMETBID SOFTWARE FOUNDATION",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1677,
+         "membership": "Eclipse",
+         "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "The Document Foundation",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1684,
+         "membership": "Eclipse",
+         "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "The Johns Hopkins University",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -3703,6 +3857,17 @@
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 1655,
+         "membership": "Eclipse",
+         "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "The PHP Foundation (Open Source Collective)",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1674,
          "membership": "Eclipse",
          "resourcePacks": 0,
          "resourcePacks_used": 0
@@ -4062,17 +4227,6 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "University of Reading",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1601,
-         "membership": "OpenHardware",
-         "resourcePacks": 0,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
          "displayName": "University of Saskatchewan",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -4123,6 +4277,17 @@
          "id": 1127,
          "membership": "Eclipse",
          "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "useblocks GmbH",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1690,
+         "membership": "Eclipse",
+         "resourcePacks": 1,
          "resourcePacks_used": 0
       },
       {
@@ -4216,6 +4381,17 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "VxLabs GmbH",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1692,
+         "membership": "Eclipse",
+         "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "Webtide LLC",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -4238,12 +4414,34 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "XITASO GmbH",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1678,
+         "membership": "Eclipse",
+         "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "Yatta Solutions GmbH",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 1006,
          "membership": "Eclipse",
          "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "Yildiz Technical University",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1689,
+         "membership": "Eclipse",
+         "resourcePacks": 0,
          "resourcePacks_used": 0
       },
       {
@@ -4277,6 +4475,17 @@
          "id": 1553,
          "membership": "Eclipse",
          "resourcePacks": 2,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "ZHAW, Institute of Mechatronic Systems (IMS)",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1683,
+         "membership": "Eclipse",
+         "resourcePacks": 0,
          "resourcePacks_used": 0
       }
    ],
@@ -4743,18 +4952,6 @@
          "sponsoringOrganizations": [
             {
                "comment": "",
-               "dedicatedAgents": 0,
-               "displayName": "BMW Group",
-               "ghLargeRunners": 0,
-               "id": 1009,
-               "requestTickets": [
-                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=571945",
-                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3685"
-               ],
-               "resourcePacks": 2
-            },
-            {
-               "comment": "",
                "dedicatedAgents": 1,
                "displayName": "Robert Bosch GmbH",
                "ghLargeRunners": 0,
@@ -4785,6 +4982,24 @@
                   "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3687"
                ],
                "resourcePacks": 0
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "automotive.scm"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "BMW Group",
+               "ghLargeRunners": 0,
+               "id": 1009,
+               "requestTickets": [
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/5069"
+               ],
+               "resourcePacks": 2
             }
          ]
       },
