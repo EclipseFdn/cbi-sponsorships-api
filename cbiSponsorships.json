@@ -2363,7 +2363,7 @@
          "id": 1134,
          "membership": "Eclipse",
          "resourcePacks": 10,
-         "resourcePacks_used": 0
+         "resourcePacks_used": 5
       },
       {
          "dedicatedAgents": 0,
@@ -4980,9 +4980,10 @@
                "ghLargeRunners": 0,
                "id": 1134,
                "requestTickets": [
-                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3687"
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3687",
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/5145"
                ],
-               "resourcePacks": 0
+               "resourcePacks": 5
             }
          ]
       },
