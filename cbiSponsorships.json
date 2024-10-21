@@ -3188,7 +3188,7 @@
          "id": 979,
          "membership": "Eclipse",
          "resourcePacks": 10,
-         "resourcePacks_used": 0
+         "resourcePacks_used": 5
       },
       {
          "dedicatedAgents": 0,
@@ -4957,9 +4957,10 @@
                "ghLargeRunners": 0,
                "id": 979,
                "requestTickets": [
-                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=571989"
+                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=571989",
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/5140"
                ],
-               "resourcePacks": 0
+               "resourcePacks": 5
             },
             {
                "comment": "",
