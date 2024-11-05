@@ -47,6 +47,17 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "Acatech - Deutsche Akademie der Technikwissenschaften e.V.",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1709,
+         "membership": "Eclipse",
+         "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "Acceler Logic (Pvt) Ltd",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -2280,17 +2291,6 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "Luxoft GmbH",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1602,
-         "membership": "Eclipse",
-         "resourcePacks": 1,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
          "displayName": "M2M Alliance E.V.",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -2356,7 +2356,7 @@
       },
       {
          "dedicatedAgents": 2,
-         "dedicatedAgents_used": 1,
+         "dedicatedAgents_used": 2,
          "displayName": "Mercedes-Benz Tech Innovation GmbH",
          "ghLargeRunners": 2,
          "ghLargeRunners_used": 0,
@@ -2473,6 +2473,17 @@
          "id": 1609,
          "membership": "Eclipse",
          "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "Navigation Data Standard (NDS) e.V.",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1708,
+         "membership": "Eclipse",
+         "resourcePacks": 0,
          "resourcePacks_used": 0
       },
       {
@@ -3622,17 +3633,6 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "SUSE LLC",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1539,
-         "membership": "Eclipse",
-         "resourcePacks": 2,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
          "displayName": "Sustainable Digital Infrastructure Alliance",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -3759,6 +3759,17 @@
          "ghLargeRunners_used": 0,
          "id": 1637,
          "membership": "OpenHardware",
+         "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "Tekniker",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1707,
+         "membership": "Eclipse",
          "resourcePacks": 0,
          "resourcePacks_used": 0
       },
@@ -5002,6 +5013,17 @@
                   "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/5069"
                ],
                "resourcePacks": 2
+            },
+            {
+               "comment": "",
+               "dedicatedAgents": 1,
+               "displayName": "Mercedes-Benz Tech Innovation GmbH",
+               "ghLargeRunners": 0,
+               "id": 1134,
+               "requestTickets": [
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/5147"
+               ],
+               "resourcePacks": 0
             }
          ]
       },
