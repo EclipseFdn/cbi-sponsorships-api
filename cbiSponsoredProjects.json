@@ -568,5 +568,20 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "project_id": "technology.escet",
+    "sponsoringOrganizations": [
+      {
+        "name": "Netherlands Organisation for applied scientific research TNO",
+        "resourcePacks": 1,
+        "dedicated": 0,
+        "runners": 0,
+        "tickets": [
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/5263"
+        ],
+        "comment": ""
+      }
+    ]
   }
 ]

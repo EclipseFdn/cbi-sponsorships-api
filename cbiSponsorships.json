@@ -47,6 +47,17 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "AboutCode Europe ASBL",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1710,
+         "membership": "Eclipse",
+         "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "Acatech - Deutsche Akademie der Technikwissenschaften e.V.",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -509,17 +520,6 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "BNY",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1479,
-         "membership": "Eclipse",
-         "resourcePacks": 2,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
          "displayName": "Business Systems Integration AG",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -586,7 +586,7 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "Capgemini ",
+         "displayName": "Capgemini",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 1551,
@@ -2104,6 +2104,17 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "KPIT Technologies Ltd",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1711,
+         "membership": "Eclipse",
+         "resourcePacks": 2,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "KTH (Kungliga Tekniska hogskolan)",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -2449,7 +2460,7 @@
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 1583,
-         "membership": "OpenHardware",
+         "membership": "Eclipse",
          "resourcePacks": 1,
          "resourcePacks_used": 0
       },
@@ -2506,6 +2517,17 @@
          "id": 1489,
          "membership": "Eclipse",
          "resourcePacks": 1,
+         "resourcePacks_used": 1
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "NMICPS Technology Innovation Hub on Autonomous Navigation Foundation",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1712,
+         "membership": "Eclipse",
+         "resourcePacks": 0,
          "resourcePacks_used": 0
       },
       {
@@ -2665,17 +2687,6 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "Open Robotics",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1443,
-         "membership": "Eclipse",
-         "resourcePacks": 0,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
          "displayName": "Open Source Automation Development Lab (OSADL)",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -2724,6 +2735,17 @@
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 1001,
+         "membership": "Eclipse",
+         "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "Open Source Robotics Foundation",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1443,
          "membership": "Eclipse",
          "resourcePacks": 0,
          "resourcePacks_used": 0
@@ -2944,7 +2966,7 @@
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 1588,
-         "membership": "OpenHardware",
+         "membership": "Eclipse",
          "resourcePacks": 1,
          "resourcePacks_used": 0
       },
@@ -5165,6 +5187,24 @@
                   "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/4016"
                ],
                "resourcePacks": 2
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "technology.escet"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Netherlands Organisation for applied scientific research TNO",
+               "ghLargeRunners": 0,
+               "id": 1489,
+               "requestTickets": [
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/5263"
+               ],
+               "resourcePacks": 1
             }
          ]
       }
