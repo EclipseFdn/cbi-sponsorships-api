@@ -240,7 +240,7 @@
     ]
   },
   {
-    "project_id": "modeling.tmf.xtext",
+    "project_id": "modeling.xtext",
     "sponsoringOrganizations": [
       {
         "name": "Advantest Europe GmbH",
@@ -383,7 +383,7 @@
     ]
   },
   {
-    "project_id": "modeling.mdt.papyrus",
+    "project_id": "modeling.papyrus",
     "sponsoringOrganizations": [
       {
         "name": "CEA LIST",
