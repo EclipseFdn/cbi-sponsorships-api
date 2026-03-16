@@ -28,7 +28,7 @@
         "comment": ""
       },
       {
-        "name": "Red Hat, Inc.",
+        "name": "Red Hat, LLC.",
         "resourcePacks": 1,
         "dedicated": 0,
         "runners": 0,
@@ -43,7 +43,7 @@
     "project_id": "eclipse.jdt.ls",
     "sponsoringOrganizations": [
       {
-        "name": "Red Hat, Inc.",
+        "name": "Red Hat, LLC.",
         "resourcePacks": 2,
         "dedicated": 0,
         "runners": 0,
@@ -68,7 +68,7 @@
         "comment": ""
       },
       {
-        "name": "Red Hat, Inc.",
+        "name": "Red Hat, LLC.",
         "resourcePacks": 2,
         "dedicated": 0,
         "runners": 0,
@@ -96,7 +96,7 @@
         "comment": "1 pack for Windows shared agent (natives build)"
       },
       {
-        "name": "Red Hat, Inc.",
+        "name": "Red Hat, LLC.",
         "resourcePacks": 3,
         "dedicated": 1,
         "runners": 0,
@@ -316,7 +316,7 @@
     "project_id": "technology.m2e",
     "sponsoringOrganizations": [
       {
-        "name": "Red Hat, Inc.",
+        "name": "Red Hat, LLC.",
         "resourcePacks": 1,
         "dedicated": 0,
         "runners": 0,
@@ -503,7 +503,7 @@
         "comment": ""
       },
       {
-        "name": "Red Hat, Inc.",
+        "name": "Red Hat, LLC.",
         "resourcePacks": 1,
         "dedicated": 0,
         "runners": 0,
