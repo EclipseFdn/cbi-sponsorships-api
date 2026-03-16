@@ -27,10 +27,9 @@
      for so in filter_by_name(sp.sponsoringOrganizations, name)
     ]),
 
-	local memberOrgBen(name, id, membership, packs=0, dedicated=0, runners=0) = {
+	local memberOrgBen(name, id, packs=0, dedicated=0, runners=0) = {
 	  displayName: name,
 	  id: id,
-	  membership: membership,
       resourcePacks: packs,
       resourcePacks_used: rp_used(name),
       dedicatedAgents: dedicated,
@@ -40,8 +39,8 @@
 	},
 
     memberOrganizationsBenefits: [
-      memberOrgBen(mob["displayName"], mob["id"], mob["membership"], mob["resourcePacks"], mob["dedicatedAgents"], mob["ghLargeRunners"])
-      for mob in import 'memberOrganizationsBenefits.jsonnet'
+      memberOrgBen(mob["displayName"], mob["id"], mob["resourcePacks"], mob["dedicatedAgents"], mob["ghLargeRunners"])
+      for mob in import 'memberOrganizationsBenefits.json'
     ],
 
     local sponsoringOrg(name, packs=0, dedicated=0, runners=0, tickets=[], comment="") = {
