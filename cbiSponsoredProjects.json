@@ -402,12 +402,13 @@
     "sponsoringOrganizations": [
       {
         "name": "Robert Bosch GmbH",
-        "resourcePacks": 5,
+        "resourcePacks": 10,
         "dedicated": 1,
         "runners": 0,
         "tickets": [
           "https://bugs.eclipse.org/bugs/show_bug.cgi?id=571989",
-          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/5140"
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/5140",
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/7083"
         ],
         "comment": ""
       },
