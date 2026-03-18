@@ -2165,7 +2165,7 @@
          "dedicatedAgents_used": 2,
          "displayName": "Robert Bosch GmbH",
          "ghLargeRunners": 2,
-         "ghLargeRunners_used": 1,
+         "ghLargeRunners_used": 2,
          "id": 979,
          "resourcePacks": 10,
          "resourcePacks_used": 10
@@ -3736,6 +3736,24 @@
                   "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/5263"
                ],
                "resourcePacks": 1
+            }
+         ]
+      },
+      {
+         "project": {
+            "id": "automotive.score"
+         },
+         "sponsoringOrganizations": [
+            {
+               "comment": "",
+               "dedicatedAgents": 0,
+               "displayName": "Robert Bosch GmbH",
+               "ghLargeRunners": 1,
+               "id": 979,
+               "requestTickets": [
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/6946"
+               ],
+               "resourcePacks": 0
             }
          ]
       }

@@ -594,5 +594,20 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "project_id": "automotive.score",
+    "sponsoringOrganizations": [
+      {
+        "name": "Robert Bosch GmbH",
+        "resourcePacks": 0,
+        "dedicated": 0,
+        "runners": 1,
+        "tickets": [
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/6946"
+        ],
+        "comment": ""
+      }
+    ]
   }
 ]
