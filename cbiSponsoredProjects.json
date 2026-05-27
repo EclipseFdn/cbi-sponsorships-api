@@ -424,12 +424,13 @@
       },
       {
         "name": "Mercedes-Benz Tech Innovation GmbH",
-        "resourcePacks": 5,
+        "resourcePacks": 10,
         "dedicated": 1,
         "runners": 0,
         "tickets": [
           "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3687",
-          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/5145"
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/5145",
+          "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/7141"
         ],
         "comment": ""
       }

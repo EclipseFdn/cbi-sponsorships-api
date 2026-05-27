@@ -113,6 +113,16 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "AUTOSOL, LP",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1793,
+         "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "AVL List GmbH",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -403,16 +413,6 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "Berylls Group GmbH & subsidiaries",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1623,
-         "resourcePacks": 1,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
          "displayName": "Bird Software Solutions Ltd",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -527,7 +527,7 @@
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 1135,
-         "resourcePacks": 1,
+         "resourcePacks": 2,
          "resourcePacks_used": 0
       },
       {
@@ -1053,6 +1053,16 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "Fundación para la Transparencia del Software",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1792,
+         "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "Futurewei Technologies, Inc.",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -1121,13 +1131,13 @@
          "resourcePacks_used": 0
       },
       {
-         "dedicatedAgents": 0,
+         "dedicatedAgents": 2,
          "dedicatedAgents_used": 0,
          "displayName": "Google LLC",
-         "ghLargeRunners": 0,
+         "ghLargeRunners": 2,
          "ghLargeRunners_used": 0,
          "id": 1592,
-         "resourcePacks": 2,
+         "resourcePacks": 10,
          "resourcePacks_used": 0
       },
       {
@@ -1568,7 +1578,7 @@
          "ghLargeRunners_used": 0,
          "id": 1134,
          "resourcePacks": 10,
-         "resourcePacks_used": 5
+         "resourcePacks_used": 10
       },
       {
          "dedicatedAgents": 0,
@@ -1598,6 +1608,16 @@
          "ghLargeRunners_used": 0,
          "id": 1196,
          "resourcePacks": 10,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "Mosaic SoC",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1791,
+         "resourcePacks": 1,
          "resourcePacks_used": 0
       },
       {
@@ -1793,6 +1813,16 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "Open Culture Foundation",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1790,
+         "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "Open Elements GmbH",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -1979,16 +2009,6 @@
          "id": 1238,
          "resourcePacks": 1,
          "resourcePacks_used": 1
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
-         "displayName": "Peak Solution GmbH",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1123,
-         "resourcePacks": 1,
-         "resourcePacks_used": 0
       },
       {
          "dedicatedAgents": 0,
@@ -2363,31 +2383,11 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "Software Mansion SA",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1628,
-         "resourcePacks": 1,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
          "displayName": "Sonatype Inc.",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 1649,
          "resourcePacks": 2,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
-         "displayName": "Splendit IT-Consulting GmbH",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1230,
-         "resourcePacks": 1,
          "resourcePacks_used": 0
       },
       {
@@ -2498,6 +2498,16 @@
          "ghLargeRunners_used": 0,
          "id": 1776,
          "resourcePacks": 2,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "TYPO3 Association",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1794,
+         "resourcePacks": 0,
          "resourcePacks_used": 0
       },
       {
@@ -2668,16 +2678,6 @@
          "ghLargeRunners_used": 0,
          "id": 1194,
          "resourcePacks": 1,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
-         "displayName": "UL Solutions",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1750,
-         "resourcePacks": 2,
          "resourcePacks_used": 0
       },
       {
@@ -2873,6 +2873,16 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "Yanlink",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1799,
+         "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "Yatta Solutions GmbH",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -3017,6 +3027,16 @@
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 1427,
+         "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "semify GmbH",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1796,
          "resourcePacks": 1,
          "resourcePacks_used": 0
       },
@@ -3545,9 +3565,10 @@
                "id": 1134,
                "requestTickets": [
                   "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3687",
-                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/5145"
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/5145",
+                  "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/7141"
                ],
-               "resourcePacks": 5
+               "resourcePacks": 10
             }
          ]
       },
