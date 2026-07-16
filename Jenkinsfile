@@ -1,12 +1,49 @@
 @Library('common-shared') _
 
 pipeline {
-    agent any
+    agent {
+        kubernetes {
+            label 'docker-kubectl'
+            yaml '''
+                 apiVersion: v1
+                 kind: Pod
+                 spec:
+                   containers:
+                     - name: docker-kubectl
+                       image: fr3d/docker-kubectl:0.0.0
+                       command:
+                         - cat
+                       tty: true
+                       resources:
+                         limits:
+                           cpu: 1
+                           memory: 1Gi
+                       volumeMounts:
+                         - mountPath: /home/jenkins/agent/.docker
+                           name: dot-docker
+                           readOnly: false
+                         - mountPath: /home/default/.kube
+                           name: dot-kube
+                           readOnly: false
+                     - name: jnlp
+                       resources:
+                         limits:
+                           cpu: 1
+                           memory: 1Gi
+                   volumes:
+                     - name: dot-docker
+                       emptyDir: {}
+                     - name: dot-kube
+                       emptyDir: {}
+            '''
+        }
+    }
 
     environment {
         APP_NAME = 'cbi-sponsorships-api'
         NAMESPACE = 'foundation-internal-webdev-apps'
         IMAGE_NAME = 'eclipsefdn/cbi-sponsorships-api'
+        HOME = "/home/jenkins/agent/"
         CONTAINER_NAME = 'app'
         ENVIRONMENT = 'production'
         TAG_NAME = sh(
@@ -27,82 +64,38 @@ pipeline {
 
     stages {
 
-        stage('Build docker image') {
-            agent {
-                label 'docker-build'
-            }
-            steps {
-                readTrusted 'Dockerfile'
-                withCredentials([file(credentialsId: 'auth.json', variable: 'AUTH_JSON')]) {
-                    sh '''
-                        DOCKER_BUILDKIT=1 docker build \
-                            --secret id=composer_auth,src="${AUTH_JSON}" \
-                            -f Dockerfile \
-                            --no-cache \
-                            -t ${IMAGE_NAME}:${TAG_NAME} \
-                            -t ${IMAGE_NAME}:latest . 2> docker_build.log
-                    '''
-                }
-                archiveArtifacts artifacts: 'docker_build.log'
-            }
-        }
-
-        stage('Push docker image') {
-            agent {
-                label 'docker-build'
-            }
+        stage('Build and push docker image remotely') {
             when {
                 environment name: 'GIT_BRANCH', value: 'main'
             }
             steps {
-                withDockerRegistry([credentialsId: 'webdev-docker-bot', url: 'https://index.docker.io/v1/']) {
-                    sh '''
-                        docker tag "${IMAGE_NAME}:${TAG_NAME}" "${IMAGE_NAME}:latest"
-                        docker push ${IMAGE_NAME}:${TAG_NAME}
-                        docker push ${IMAGE_NAME}:latest
-                    '''
+                container('docker-kubectl')  {
+                    readTrusted 'Dockerfile'
+                    withCredentials([file(credentialsId: 'auth.json', variable: 'AUTH_JSON')]) {
+                        withDockerRegistry([credentialsId: 'webdev-docker-bot', url: 'https://index.docker.io/v1/']) {
+                            sh '''
+                                docker buildx create --name remote-okd --driver remote tcp://buildkitd.foundation-internal-infra-buildkitd:1234
+                                DOCKER_BUILDKIT=1 docker buildx build \
+                                    --builder remote-okd \
+                                    --secret id=composer_auth,src="${AUTH_JSON}" \
+                                    -f Dockerfile \
+                                    --no-cache \
+                                    -t ${IMAGE_NAME}:${TAG_NAME} \
+                                    -t ${IMAGE_NAME}:latest --push .
+                                '''
+                        }
+                    }
+                    //archiveArtifacts artifacts: 'docker_remote_build.log'
                 }
             }
         }
 
         stage('Deploy to cluster') {
-            agent {
-                kubernetes {
-                    label 'kubedeploy-agent'
-                    yaml '''
-                        apiVersion: v1
-                        kind: Pod
-                        spec:
-                          containers:
-                            - name: kubectl
-                              image: eclipsefdn/kubectl:okd-c1
-                              command:
-                                - cat
-                              tty: true
-                              resources:
-                                limits:
-                                  cpu: 1
-                                  memory: 1Gi
-                              volumeMounts:
-                                - mountPath: /home/default/.kube
-                                  name: dot-kube
-                                  readOnly: false
-                            - name: jnlp
-                              resources:
-                                limits:
-                                  cpu: 1
-                                  memory: 1Gi
-                          volumes:
-                            - name: dot-kube
-                              emptyDir: {}
-                    '''
-                }
-            }
             when {
                 environment name: 'GIT_BRANCH', value: 'main'
             }
             steps {
-                container('kubectl') {
+                container('docker-kubectl') {
                     sh '''
                       echo "newImageRef: ${IMAGE_NAME}:${TAG_NAME}"
                     '''
@@ -122,4 +115,3 @@ pipeline {
         }
     }
 }
-
