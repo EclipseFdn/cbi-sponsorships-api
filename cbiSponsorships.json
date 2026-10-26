@@ -83,6 +83,16 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "ARENA2036 e.V.",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1804,
+         "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "ARM Limited",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -117,6 +127,16 @@
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 1793,
+         "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "AVIN Systems Private Limited",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1805,
          "resourcePacks": 1,
          "resourcePacks_used": 0
       },
@@ -193,6 +213,16 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "Alean-Tec",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1471,
+         "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "Alibaba Cloud",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -221,23 +251,13 @@
          "resourcePacks_used": 0
       },
       {
-         "dedicatedAgents": 0,
+         "dedicatedAgents": 2,
          "dedicatedAgents_used": 0,
          "displayName": "Amazon Europe Core SARL",
-         "ghLargeRunners": 0,
+         "ghLargeRunners": 2,
          "ghLargeRunners_used": 0,
          "id": 1645,
-         "resourcePacks": 2,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
-         "displayName": "Ant Blockchain Technology (Shanghai) Co., Ltd",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1738,
-         "resourcePacks": 1,
+         "resourcePacks": 10,
          "resourcePacks_used": 0
       },
       {
@@ -323,16 +343,6 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "Atlanta Java Users Group, Inc",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1469,
-         "resourcePacks": 0,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
          "displayName": "Azul Systems, Inc",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -358,6 +368,16 @@
          "ghLargeRunners_used": 0,
          "id": 1405,
          "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "BeagleBoard.org Foundation",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1461,
+         "resourcePacks": 0,
          "resourcePacks_used": 0
       },
       {
@@ -683,16 +703,6 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "DENSO AUTOMOTIVE Deutschland GmbH",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1387,
-         "resourcePacks": 2,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
          "displayName": "DIN e.V.",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -858,6 +868,16 @@
          "ghLargeRunners_used": 0,
          "id": 1755,
          "resourcePacks": 2,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "Equo Tech, Inc",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1800,
+         "resourcePacks": 1,
          "resourcePacks_used": 0
       },
       {
@@ -1123,6 +1143,16 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "Gigarator Oy",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1806,
+         "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "GitHub",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -1147,6 +1177,16 @@
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 1164,
+         "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "HENIX",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1803,
          "resourcePacks": 1,
          "resourcePacks_used": 0
       },
@@ -1572,7 +1612,7 @@
       },
       {
          "dedicatedAgents": 2,
-         "dedicatedAgents_used": 2,
+         "dedicatedAgents_used": 1,
          "displayName": "Mercedes-Benz Tech Innovation GmbH",
          "ghLargeRunners": 2,
          "ghLargeRunners_used": 0,
@@ -1588,16 +1628,6 @@
          "ghLargeRunners_used": 0,
          "id": 1679,
          "resourcePacks": 2,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
-         "displayName": "Micro Stream Software GmbH",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1605,
-         "resourcePacks": 1,
          "resourcePacks_used": 0
       },
       {
@@ -1617,16 +1647,6 @@
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 1791,
-         "resourcePacks": 1,
-         "resourcePacks_used": 0
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
-         "displayName": "Mueller-BBM VibroAkustik Systeme GmbH",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1147,
          "resourcePacks": 1,
          "resourcePacks_used": 0
       },
@@ -1737,7 +1757,7 @@
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 863,
-         "resourcePacks": 3,
+         "resourcePacks": 1,
          "resourcePacks_used": 1
       },
       {
@@ -2003,16 +2023,6 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
-         "displayName": "Payara Services Limited",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1238,
-         "resourcePacks": 1,
-         "resourcePacks_used": 1
-      },
-      {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
          "displayName": "PlanV GmbH",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -2171,18 +2181,8 @@
          "resourcePacks_used": 0
       },
       {
-         "dedicatedAgents": 0,
-         "dedicatedAgents_used": 0,
-         "displayName": "Rivos Inc",
-         "ghLargeRunners": 0,
-         "ghLargeRunners_used": 0,
-         "id": 1595,
-         "resourcePacks": 1,
-         "resourcePacks_used": 0
-      },
-      {
          "dedicatedAgents": 2,
-         "dedicatedAgents_used": 2,
+         "dedicatedAgents_used": 1,
          "displayName": "Robert Bosch GmbH",
          "ghLargeRunners": 2,
          "ghLargeRunners_used": 2,
@@ -2303,6 +2303,16 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "Schweizerische Bundesbahnen SBB AG",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1802,
+         "resourcePacks": 2,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "Shandong Cvicse Middleware Co.,Ltd",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -2388,6 +2398,16 @@
          "ghLargeRunners_used": 0,
          "id": 1649,
          "resourcePacks": 2,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "Space Coast Helpdesk Inc.",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1809,
+         "resourcePacks": 1,
          "resourcePacks_used": 0
       },
       {
@@ -2623,6 +2643,16 @@
       {
          "dedicatedAgents": 0,
          "dedicatedAgents_used": 0,
+         "displayName": "The University of York",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1253,
+         "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
          "displayName": "TmaxSoft Co., Ltd",
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
@@ -2707,6 +2737,16 @@
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 1208,
+         "resourcePacks": 0,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "Universitat Politecnica de Valencia",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1084,
          "resourcePacks": 0,
          "resourcePacks_used": 0
       },
@@ -2887,6 +2927,16 @@
          "ghLargeRunners": 0,
          "ghLargeRunners_used": 0,
          "id": 1006,
+         "resourcePacks": 1,
+         "resourcePacks_used": 0
+      },
+      {
+         "dedicatedAgents": 0,
+         "dedicatedAgents_used": 0,
+         "displayName": "Yeeth LLC",
+         "ghLargeRunners": 0,
+         "ghLargeRunners_used": 0,
+         "id": 1801,
          "resourcePacks": 1,
          "resourcePacks_used": 0
       },
@@ -3260,17 +3310,6 @@
             {
                "comment": "",
                "dedicatedAgents": 0,
-               "displayName": "Payara Services Limited",
-               "ghLargeRunners": 0,
-               "id": 1238,
-               "requestTickets": [
-                  "https://bugs.eclipse.org/bugs/show_bug.cgi?id=564136"
-               ],
-               "resourcePacks": 1
-            },
-            {
-               "comment": "",
-               "dedicatedAgents": 0,
                "displayName": "Omnifish OU",
                "ghLargeRunners": 0,
                "id": 1571,
@@ -3535,7 +3574,7 @@
          "sponsoringOrganizations": [
             {
                "comment": "",
-               "dedicatedAgents": 1,
+               "dedicatedAgents": 0,
                "displayName": "Robert Bosch GmbH",
                "ghLargeRunners": 0,
                "id": 979,
@@ -3559,7 +3598,7 @@
             },
             {
                "comment": "",
-               "dedicatedAgents": 1,
+               "dedicatedAgents": 0,
                "displayName": "Mercedes-Benz Tech Innovation GmbH",
                "ghLargeRunners": 0,
                "id": 1134,
