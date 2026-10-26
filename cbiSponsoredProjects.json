@@ -403,7 +403,7 @@
       {
         "name": "Robert Bosch GmbH",
         "resourcePacks": 10,
-        "dedicated": 1,
+        "dedicated": 0,
         "runners": 0,
         "tickets": [
           "https://bugs.eclipse.org/bugs/show_bug.cgi?id=571989",
@@ -425,7 +425,7 @@
       {
         "name": "Mercedes-Benz Tech Innovation GmbH",
         "resourcePacks": 10,
-        "dedicated": 1,
+        "dedicated": 0,
         "runners": 0,
         "tickets": [
           "https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/3687",
