@@ -168,16 +168,6 @@
         "comment": ""
       },
       {
-        "name": "Payara Services Limited",
-        "resourcePacks": 1,
-        "dedicated": 0,
-        "runners": 0,
-        "tickets": [
-          "https://bugs.eclipse.org/bugs/show_bug.cgi?id=564136"
-        ],
-        "comment": ""
-      },
-      {
         "name": "Omnifish OU",
         "resourcePacks": 1,
         "dedicated": 0,
