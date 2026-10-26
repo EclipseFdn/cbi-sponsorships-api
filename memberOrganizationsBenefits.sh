@@ -18,10 +18,11 @@ SCRIPT_FOLDER="$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")"
 CLIENT_ID="$("${SCRIPT_FOLDER}/utils/local_config.sh" "get_var" "client_id" "members_oauth")"
 CLIENT_SECRET="$("${SCRIPT_FOLDER}/utils/local_config.sh" "get_var" "client_secret" "members_oauth")"
 
+API_RESPONSE_FILE="${SCRIPT_FOLDER}/membership_api_response.json"
 OUTPUT_JSON="${SCRIPT_FOLDER}/memberOrganizationsBenefits.json"
 
 #Get OAuth access token
-TOKEN_URL="https://auth.eclipse.org/auth/realms/community_realm/protocol/openid-connect/token"
+TOKEN_URL="https://auth.eclipse.org/auth/realms/foundation/protocol/openid-connect/token"
 
 #TODO: use json instead?
 echo "Fetching OAuth access token..."
@@ -35,9 +36,14 @@ MEMBERSHIP_API_URL="https://membership.eclipse.org/api/foundation/organizations"
 
 echo "INFO: Downloading membership API data..."
 curl -s "${MEMBERSHIP_API_URL}" --header "Authorization: Bearer ${ACCESS_TOKEN}"\
-                                --header 'content-type: application/json' | jq . > membership_api_response.json
+                                --header 'content-type: application/json' | jq . > "${API_RESPONSE_FILE}"
 
-membership_api_result="$(cat membership_api_response.json)"
+if [ ! -s "${API_RESPONSE_FILE}" ]; then
+  echo "ERROR: The API response is empty. Please double-check!"
+  exit 1
+fi
+
+membership_api_result="$(cat "${API_RESPONSE_FILE}")"
 
 #echo "API result:\n ${membership_api_result}"
 > "${OUTPUT_JSON}"
@@ -53,6 +59,11 @@ for orgbenefits in $(echo "${membership_api_result}" | jq -c '.[] | {id: .organi
   #determine resources
   #echo "ID: "$(jq '.id' <<< "${orgbenefits}")" - Levels: "$(jq '.levels.level' <<< "${orgbenefits}")""
   dues_tier="$(jq -r '.levels.dues_tier' <<< "${orgbenefits}")"
+
+  if [[ "${dues_tier}" == "null" ]]; then
+    echo "ERROR: dues_tier attribute is empty. Please double-check!"
+    exit 1
+  fi
 
   da=0
   ghlr=0
@@ -97,6 +108,6 @@ printf ']\n' >> "${OUTPUT_JSON}"
 
 # Pretty-print and sort
 cat "${OUTPUT_JSON}" | jq -S  'sort_by(.displayName)' > output.json
-mv output.json "${OUTPUT_JSON}" 
+mv output.json "${OUTPUT_JSON}"
 
 printf "INFO: Regenerated benefits for %d member organizations\n" "$(jq '. | length' "${OUTPUT_JSON}")"
